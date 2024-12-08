@@ -4,6 +4,7 @@ comments: true
 title: Nailed that one
 date: 2024-01-20 08:00:00
 description: You don't care, but I'm surprised at myself...
+tags: blockchain
 ---
 
 In other words, $10K worth of Bitcoins bought today could be valued at $1M (or zero dollars) in only just a tew years.

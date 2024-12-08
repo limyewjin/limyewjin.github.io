@@ -4,6 +4,8 @@ comments: true
 title: Quick Prompt Engineering Tip 3 - Grounding LLM Responses
 date: 2024-12-01 08:00:01
 description: Grounding is key, but how should you present the info to LLMs?
+tags: llm
+categories: tutorial
 ---
 
 If we can provide a model with trusted, relevant information, we can guide it to compose answers grounded in that knowledge rather than relying on its training data alone. But how we present this information matters significantly.

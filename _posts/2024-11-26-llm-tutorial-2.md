@@ -4,6 +4,8 @@ comments: true
 title: Quick Prompt Engineering Tip 2 - Master Length Control in LLMs 📏
 date: 2024-11-24 08:00:00
 description: One common requirement I have using LLMs is controlling their response length
+tags: llm
+categories: tutorial
 ---
 
 One common requirement I have using LLMs is controlling their response length (maximum number of words, minimum number of words, number of bullet points, etc.). I have done a few tests to share some key insights for controlling length in LLMs.
