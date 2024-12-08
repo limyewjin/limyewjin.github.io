@@ -5,6 +5,7 @@ title: Estimating the Probability of Not Proposing an Ethereum Block
 date: 2024-01-27 08:00:00
 description: When your solo staking setup isn't proposing, you are asking "WHAT ARE THE ODDS?!"
 ---
+
 **Plot**: [yewjin.com/assets/html/eth_block_probability.html](https://www.yewjin.com/assets/html/eth_block_probability.html) is a plot of the probabilities where you can fit in your own values.
 
 **Note (June 2024)**: This blog post is updated regularly (ideally daily!) with the current eligible ETH value from the blockchain.
@@ -20,11 +21,13 @@ The Ethereum PoS protocol, specifically in the context of block validation, oper
 ### Calculating the Probability
 
 The probability of not proposing a block in a single slot, for a user with V ETH, is calculated as follows:
+
 ```
 Probability (Single Slot) = 1 - (V / N)
 ```
 
 To extend this to a specific time period, T slots, the formula becomes:
+
 ```
 Probability (T Slots) = (1 - (V / N))^T
 ```
@@ -45,6 +48,7 @@ Handy number of slots in various time periods
 - **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{32}{34315892} \right)^{216000} $$
 
 ### Summary
+
 - **Chance of not proposing a block in one hour:** Approximately 99.97%
 - **Chance of not proposing a block in one day:** Approximately 99.33%
 - **Chance of not proposing a block in one week:** Approximately 95.41%
@@ -59,6 +63,7 @@ Handy number of slots in various time periods
 - **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{3200}{34315892} \right)^{216000} $$
 
 ### Summary
+
 - **Chance of not proposing a block in one hour:** Approximately 97.24%
 - **Chance of not proposing a block in one day:** Approximately 51.10%
 - **Chance of not proposing a block in one week:** Approximately 0.91%
@@ -72,14 +77,14 @@ $$ \lambda = T \times \left( \frac{V}{N} \right) $$
 
 The cumulative probability of proposing at least B blocks is:
 
-$$ P(\text{proposing at least } B \text{ blocks}) = 1 - \sum_{k=0}^{B-1} \frac{\lambda^k e^{-\lambda}}{k!} $$
+$$ P(\text{proposing at least } B \text{ blocks}) = 1 - \sum\_{k=0}^{B-1} \frac{\lambda^k e^{-\lambda}}{k!} $$
 
 where $$ \lambda = T \times \left( \frac{V}{N} \right) $$.
 
 ### Example Probabilities for 32 ETH
 
-- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum_{k=0}^{0} \frac{\lambda_{1 \, day}^k e^{-\lambda_{1 \, day}}}{k!} $$
-- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum_{k=0}^{1} \frac{\lambda_{1 \, week}^k e^{-\lambda_{1 \, week}}}{k!} $$
-- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum_{k=0}^{4} \frac{\lambda_{1 \, month}^k e^{-\lambda_{1 \, month}}}{k!} $$
+- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum*{k=0}^{0} \frac{\lambda*{1 \, day}^k e^{-\lambda\_{1 \, day}}}{k!} $$
+- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum*{k=0}^{1} \frac{\lambda*{1 \, week}^k e^{-\lambda\_{1 \, week}}}{k!} $$
+- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum*{k=0}^{4} \frac{\lambda*{1 \, month}^k e^{-\lambda\_{1 \, month}}}{k!} $$
 
 Finally, if you want to see the latest statistics on block proposal frequency, see [LuckyStaker.com](https://luckystaker.com/home/)
