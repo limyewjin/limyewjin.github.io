@@ -2,24 +2,41 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineer at Google by day. Web3 degen by night.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My name is Yew Jin, Lim. I am currently a Software Engineer at Google in its Mountain View campus. I received a Bachelors of Mathematics Double Honors Degree in Pure Mathematics and Computer Science (With Distinction) from the University of Waterloo in June 2000. I then returned to Singapore and entered into national service in July 2000. Upon completion of full-time national service in Nov 2002 as a naval officer, I enrolled in the National University of Singapore in Jan 2003 after receiving the A*Star-NUS Graduate Fellowship. I obtained a PhD in Computer Science from the School of Computing, NUS, in September 2007. I joined Google in Nov 2007 and have worked in Search since then. I am a director of engineering in Search working on Proactive AI and Notifications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am interested in crypto and web3 - [yewjin.eth](https://app.ens.domains/name/yewjin.eth) directs here.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+# Note about my name
+In Asia, the standard template for names is reversed
+i.e., [LAST NAME] [FIRST NAME]
+To avoid any confusion, my last name is Lim. My first name is a double first name and basically consists of two separate words, Yew Jin, and when pronounced, sounds like "Eugene". In fact, over the years, I respond more readily to "Eugene" than the proper pronunciation of my name!
+
+# Anecdote about my name
+One of the most entertaining conversations in my life is with a school administrative officer from the University of Waterloo.
+
+_Officer_: "Is you there?"<br>
+_YJ_: "Yes, I am here."<br>
+_Officer_: "You Lim?"<br>
+_YJ_: "Yes, I am Lim."<br>
+_silence_<br>
+_Officer_: "Are you you Lim?"<br>
+_YJ_: _realization_<br>
+_YJ_: "Yes, I am Yew Lim."
+
+# Random factoid
+I am [acknowledged for helping](https://yewjin.com/assets/img/bayesian_data_analysis_thanked.jpg) in the book [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
+
+# Links
+All about the links at [yewjin.omg.lol](https://yewjin.omg.lol)
