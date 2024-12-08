@@ -16,7 +16,7 @@ Although I do not truly understand cryptocurrency (I know enough to shoot myself
 
 It’s interesting to me how NFTs and Web3 appear to trigger the crypto community in a similar way. For example, see this reddit post titled: ["NFTs... great technology, wasted on art"](https://www.reddit.com/r/CryptoCurrency/comments/uo4my9/nfts_great_technology_wasted_on_art/) which includes this snippet _"HOWEVER, I hate the fact that the VAST MAJORITY of capital and resources is being directed towards NFT art and isn’t being invested into expanding NFT technology to expand its uses."_
 
-Also see this interview summary with Vitalik Buterin by [benzinga](https://www.benzinga.com/markets/cryptocurrency/22/03/26212053/the-goal-of-crypto-is-not-to-play-games-with-million-dollar-pictures-of-monkeys-ethereum-f).
+Also below is an excerpt of an interview summary with Vitalik Buterin:
 
 > Ethereum co-founder Vitalik Buterin was interviewed by TIME in a cover story, labeling him the “Prince of Crypto.”
 >
