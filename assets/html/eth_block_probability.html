@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Probability of Proposing Blocks</title>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <h1>Probability of Proposing Blocks</h1>
+  <label for="eth">Your ETH Staked:</label>
+  <input type="number" id="eth" min="1" value="32">
+  <br>
+  <label for="totalEligibleEther">Total Eligible Ether:</label>
+  <input type="number" id="totalEligibleEther" min="1" value="34315892">
+  <span style="font-size: 12px; color: gray;">(Last updated: 2024-12-08 12:42)</span>
+  <br>
+  <label for="days">Number of Days:</label>
+  <input type="number" id="days" min="1" value="30">
+  <br>
+  <label for="blocks">Minimum Number of Blocks:</label>
+  <input type="number" id="blocks" min="0" value="1">
+  <br>
+  <button onclick="plotProbability()">Plot Probability</button>
+  <br>
+  <canvas id="probabilityChart"></canvas>
+
+  <script>
+    let chart;
+
+    function factorial(n) {
+      return n ? n * factorial(n - 1) : 1;
+    }
+
+    function poissonProbability(lambda, k) {
+      return (Math.pow(lambda, k) * Math.exp(-lambda)) / factorial(k);
+    }
+
+    function cumulativePoissonProbability(lambda, B) {
+      let sum = 0;
+      for (let k = 0; k < B; k++) {
+        sum += poissonProbability(lambda, k);
+      }
+      return 1 - sum;
+    }
+
+    function plotProbability() {
+      const ethAmount = parseInt(document.getElementById('eth').value);
+      const totalEligibleEther = parseInt(document.getElementById('totalEligibleEther').value);
+      const days = parseInt(document.getElementById('days').value);
+      const minBlocks = parseInt(document.getElementById('blocks').value);
+
+      const V = ethAmount;
+      const N = totalEligibleEther;
+      const slotsPerDay = 7200;
+      const timeUnits = [];
+      const notProposingProbabilities = [];
+      const atLeastBlocksProbabilities = [];
+
+      for (let i = 1; i <= days; i++) {
+        const slots = i * slotsPerDay;
+        const lambda = slots * (V / N);
+        timeUnits.push(`Day ${i}`);
+        notProposingProbabilities.push(Math.pow(1 - (V / N), slots));
+        atLeastBlocksProbabilities.push(cumulativePoissonProbability(lambda, minBlocks));
+      }
+
+      const ctx = document.getElementById('probabilityChart').getContext('2d');
+
+      if (chart) {
+        chart.destroy();
+      }
+
+      chart = new Chart(ctx, {
+        type: 'line',
+        data: {
+          labels: timeUnits,
+          datasets: [
+            {
+              label: 'Probability of Not Proposing a Block',
+              data: notProposingProbabilities,
+              borderColor: 'blue',
+              fill: false
+            },
+            {
+              label: `Probability of Proposing At Least ${minBlocks} Blocks`,
+              data: atLeastBlocksProbabilities,
+              borderColor: 'red',
+              fill: false
+            }
+          ]
+        },
+        options: {
+          responsive: true,
+          title: {
+            display: true,
+            text: 'Probability of Proposing Blocks'
+          },
+          scales: {
+            x: {
+              title: {
+                display: true,
+                text: 'Time (Days)'
+              }
+            },
+            y: {
+              title: {
+                display: true,
+                text: 'Probability'
+              },
+              ticks: {
+                callback: function(value) {
+                  return (value * 100).toFixed(2) + '%';
+                }
+              }
+            }
+          },
+          tooltips: {
+            callbacks: {
+              label: function(tooltipItem, data) {
+                const probability = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
+                const percentage = (probability * 100).toFixed(2);
+                return `Probability: ${percentage}%`;
+              }
+            }
+          }
+        }
+      });
+    }
+
+    // Render the plot on page load with 32 ETH
+    window.onload = function() {
+      plotProbability();
+    };
+  </script>
+  <p>See accompanying <a href="https://yewjin.com/blog/2024/eth-validator-block-probability/">blog post</a></p>
+</body>
+</html>
