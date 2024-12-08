@@ -12,6 +12,6 @@ In other words, $10K worth of Bitcoins bought today could be valued at $1M (or z
 
 Average price ~ July 2014: $531.13
 
-{% include figure.html path="assets/img/bitcoin-2014-2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/bitcoin-2014-2023.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 Gotta say I kinda of nailed that one.

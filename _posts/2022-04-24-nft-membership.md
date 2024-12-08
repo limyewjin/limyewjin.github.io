@@ -10,7 +10,7 @@ I've been thinking about monetization beyond ads; is it already here?
 
 It is used by many NFT tools. Here's an example: [SuperSea](https://nonfungible.tools/supersea).
 
-{% include figure.html path="assets/img/2022-04-26-nft-monetization-supersea.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/2022-04-26-nft-monetization-supersea.png" class="img-fluid rounded z-depth-1" zoomable=true %}
 
 There are three tiers:
 
