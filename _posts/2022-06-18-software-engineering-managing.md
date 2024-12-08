@@ -78,7 +78,7 @@ If you don’t know about the monkey, here’s the [HBR article](https://hbr.org
 
 Rule of Thumb: Keeping track of TODOs is hard-work, punt it to a system, and worry about your current task.
 
-Hack: Pick your favorite TODO system ([Google Search](http://lmgtfy.com/?q=todo+system)), but my hacks are:
+Hack: Pick your favorite TODO system, but my hacks are:
 
 - Read through email periodically and label it with a special label (e.g., 1TODO to make it sort as the first label in gmail). 1TODO is visited at free-time slots to pick up tasks.
 - Since most of my TODOs are in email (from pointy heads), and I don’t want to create a separate repository of TODOs, I write my TODOs by emailing myself (TODOs <date>) which gets the 1TODO label automatically via gmail.
