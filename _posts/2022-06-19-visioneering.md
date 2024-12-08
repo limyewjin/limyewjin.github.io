@@ -4,6 +4,8 @@ comments: true
 title: Effective delegation by visioneering
 date: 2022-06-19 10:00:00
 description: Visioneering is such a great word
+tags: techleadership
+categories: management-tips
 ---
 
 As a software engineering manager and a growing slate and scale of projects to lead, I have made delegation decisions largely based on intuition or just observing what other managers were doing.

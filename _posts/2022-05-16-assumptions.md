@@ -4,6 +4,8 @@ comments: true
 title: Cryptocurrency takes time to grok
 date: 2022-05-15 08:00:00
 description: Challenging assumptions about how the world works is challenging
+tags: blockchain
+categories: showerthought
 ---
 
 As part of a recent conversation to present a Web3 proposal to execs, the following concern was raised: "How can we convey the concept of Web3 to folks in a deck? It took me a long time immersing myself in this ecosystem before I understood why it’s different.”

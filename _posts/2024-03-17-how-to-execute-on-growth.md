@@ -4,6 +4,8 @@ comments: true
 title: How to execute on growth
 date: 2024-03-17 08:00:00
 description: How to execute on growth
+tags: growth
+categories: tutorial
 ---
 
 As a big tech growth team lead, I've seen firsthand the impact that a growth mindset can have on an organization's success. I have thought more than I care to admit about the key principles and strategies that can help unlock sustainable growth - here they are:

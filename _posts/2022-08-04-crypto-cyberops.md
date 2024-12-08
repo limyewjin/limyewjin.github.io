@@ -4,6 +4,8 @@ comments: true
 title: Crypto Cyberops
 date: 2022-08-04 08:00:00
 description: Writing this down because the other liability is forgetting the protocol
+tags: blockchain
+categories: tutorial
 ---
 
 Here's my multifactor way to store your crypto safely with a break glass scenario for emergencies:

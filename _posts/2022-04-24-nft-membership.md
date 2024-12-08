@@ -4,6 +4,8 @@ comments: true
 title: Monetizing using NFTs
 date: 2022-04-26 21:00:30
 description: Is the new monetization model already here?
+tags: blockchain nfts
+categories: showerthoughts
 ---
 
 I've been thinking about monetization beyond ads; is it already here?

@@ -4,6 +4,8 @@ comments: true
 title: Happy Father's Day
 date: 2022-06-19 10:00:00
 description: This blog post brought to you by AI.
+tags: llm
+categories: experiment
 ---
 
 Father's Day is a special day to celebrate all the amazing fathers out there. Whether you are a dad yourself, or you have a father figure in your life that you look up to, this day is for celebrating all the great things that fathers do. From being a protector and provider, to being a shoulder to cry on and a sounding board for life's toughest decisions, fathers play an incredibly important role in our lives. So on this Father's Day, take a moment to appreciate all the wonderful fathers out there, and let them know just how much you care.

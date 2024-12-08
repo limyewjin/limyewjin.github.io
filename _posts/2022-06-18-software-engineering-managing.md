@@ -4,6 +4,8 @@ comments: true
 title: Software Engineering Management
 date: 2022-06-18 18:00:00
 description: Compilation of heuristics, tips and observations since starting my software engineering management journey.
+tags: techleadership
+categories: management-tips
 ---
 
 # What is engineering management?

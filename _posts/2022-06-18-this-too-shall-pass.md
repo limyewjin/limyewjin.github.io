@@ -4,6 +4,8 @@ comments: true
 title: This too shall pass
 date: 2022-06-18 08:00:00
 description: Crypto Twitter is dead. Long Live Crypto Twitter.
+tags: blockchain
+categories: showerthoughts
 ---
 
 Bitcoin fell below $20K and Ethereum broke $1000, and it feels more like the early stages than the later stages of a global recession.

@@ -4,6 +4,7 @@ comments: true
 title: Breaking down silos to grow
 date: 2024-04-03 08:00:00
 description: Doing growth is like finding coins between the couch cushions
+tags: growth
 ---
 
 Here's the thing: growth ideas often come from thinking outside the box and looking at the full complexity of the user flow, rather than getting stuck in the silos created by products, features, and org structures.

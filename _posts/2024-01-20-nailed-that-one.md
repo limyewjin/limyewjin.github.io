@@ -7,7 +7,7 @@ description: You don't care, but I'm surprised at myself...
 tags: blockchain
 ---
 
-In other words, $10K worth of Bitcoins bought today could be valued at $1M (or zero dollars) in only just a tew years.
+In other words, $10K worth of Bitcoins bought today could be valued at $1M (or zero dollars) in only just a few years.
 
 - Yew Jin, July 2014, [Bitcoin investment thesis](https://docs.google.com/document/d/1-3R10vhbe5GgBeREda3nAXtlT5YpwEviBao340H3tgM/edit?usp=sharing)
 

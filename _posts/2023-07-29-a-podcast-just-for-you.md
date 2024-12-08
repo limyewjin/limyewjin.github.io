@@ -4,6 +4,8 @@ comments: true
 title: A Podcast for You! And You! And You!
 date: 2023-07-29 08:00:00
 description: One small step for how LLMs are going to change your world
+tags: llm
+categories: ideas
 ---
 
 Imagine starting your day with a tailored podcast, containing summarized stories from various newspapers and websites that you care about. With advances in LLMs and Text-to-Speech, it is now possible to automate this process.

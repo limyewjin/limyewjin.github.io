@@ -4,6 +4,8 @@ comments: true
 title: Ethereum 2024 Thesis
 date: 2024-02-25 08:00:00
 description: Gen AI + Ethereum
+tags: llm blockchain
+categories: ideas
 ---
 
 Ethereum is my go-to crypto asset on the basis that it's programmable money; just that it hasn't found its iPhone moment. My thesis is that Gen AI and Ethereum provide that missing economic model for creators in the age of Gen AI.
