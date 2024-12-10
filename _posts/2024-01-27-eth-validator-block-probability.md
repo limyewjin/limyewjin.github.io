@@ -78,14 +78,14 @@ $$ \lambda = T \times \left( \frac{V}{N} \right) $$
 
 The cumulative probability of proposing at least B blocks is:
 
-$$ P(\text{proposing at least } B \text{ blocks}) = 1 - \sum\_{k=0}^{B-1} \frac{\lambda^k e^{-\lambda}}{k!} $$
+$$ P(\text{proposing at least } B \text{ blocks}) = 1 - \sum_{k=0}^{B-1} \frac{\lambda^k e^{-\lambda}}{k!} $$
 
 where $$ \lambda = T \times \left( \frac{V}{N} \right) $$.
 
 ### Example Probabilities for 32 ETH
 
-- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum*{k=0}^{0} \frac{\lambda*{1 \, day}^k e^{-\lambda\_{1 \, day}}}{k!} $$
-- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum*{k=0}^{1} \frac{\lambda*{1 \, week}^k e^{-\lambda\_{1 \, week}}}{k!} $$
-- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum*{k=0}^{4} \frac{\lambda*{1 \, month}^k e^{-\lambda\_{1 \, month}}}{k!} $$
+- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum_{k=0}^{0} \frac{\lambda*{1 \, day}^k e^{-\lambda\_{1 \, day}}}{k!} $$
+- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum_{k=0}^{1} \frac{\lambda*{1 \, week}^k e^{-\lambda\_{1 \, week}}}{k!} $$
+- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum_{k=0}^{4} \frac{\lambda*{1 \, month}^k e^{-\lambda\_{1 \, month}}}{k!} $$
 
 Finally, if you want to see the latest statistics on block proposal frequency, see [LuckyStaker.com](https://luckystaker.com/home/)
