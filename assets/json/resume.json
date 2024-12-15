@@ -73,10 +73,7 @@
       "startDate": "2003-01-01",
       "endDate": "2007-01-01",
       "score": "",
-      "courses": [
-        "Game AI",
-        "Machine Learning"
-      ]
+      "courses": ["Game AI", "Machine Learning"]
     },
     {
       "institution": "University of Waterloo",
@@ -112,29 +109,17 @@
     {
       "name": "Programming",
       "level": "Expert",
-      "keywords": [
-        "Python",
-        "C++"
-      ]
+      "keywords": ["Python", "C++"]
     },
     {
       "name": "AI/ML",
       "level": "Expert",
-      "keywords": [
-        "Deep Learning",
-        "Machine Learning",
-        "GenAI",
-        "Prompt Engineering"
-      ]
+      "keywords": ["Deep Learning", "Machine Learning", "GenAI", "Prompt Engineering"]
     },
     {
       "name": "Engineering",
       "level": "Expert",
-      "keywords": [
-        "Search Systems",
-        "Distributed Systems",
-        "Large-scale Systems"
-      ]
+      "keywords": ["Search Systems", "Distributed Systems", "Large-scale Systems"]
     }
   ],
   "languages": [
@@ -150,11 +135,7 @@
   "interests": [
     {
       "name": "Personal",
-      "keywords": [
-        "Gardening",
-        "Meditation",
-        "Reading"
-      ]
+      "keywords": ["Gardening", "Meditation", "Reading"]
     }
   ],
   "projects": [
