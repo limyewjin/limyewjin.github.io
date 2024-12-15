@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: cv.pdf # you can also use external links here
-description: A resume written using typst.
+description: A resume written using typst → see download link on right
 toc:
   sidebar: left
 ---

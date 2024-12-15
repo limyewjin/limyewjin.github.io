@@ -2,96 +2,88 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Yew Jin Lim
+    - name: Contact
+      value: limyewjin@gmail.com | (650)241-0774 | limyewjin
     - name: Languages
-      value: English, German
+      value: English, Conversational Chinese
+    - name: Tech Stack
+      value: Python, C++, Prompt Engineering Whisperer
+    - name: Personal Interests
+      value: Gardening, Meditation, Reading
+
+- title: Professional Experience
+  type: time_table
+  contents:
+    - title: Director of Engineering, Notifications and Proactive AI Lead
+      institution: Google, San Francisco Bay Area
+      year: 2023 - Present
+      description:
+        - Lead the Notifications and Proactive AI organization at Google's Search Discovery, focusing on innovative Search products using cutting-edge AI technology
+        - Build innovative Search proactive products and features leveraging the latest tech, including GenAI platforms
+        - Drive development of systems to keep users informed by digesting world's information and delivering timely, useful notifications
+        - Enable users to effortlessly use Gen AI to meet their daily needs
+      tags: AI/ML, GenAI, Search, Engineering Leadership, Product Strategy
+
+    - title: Principal Software Engineer, Search Growth Engineering Lead
+      institution: Google, San Francisco Bay Area
+      year: 2018 - 2023
+      description:
+        - Led development of predictive systems for ranking and triggering of multiple proactive/queryless features in Search
+        - Drove Google Search usage growth by building horizontal technologies for sustainable user acquisition and re-engagement
+        - Led the Intent Prediction team of 50 members, developing novel techniques using deep learning and data mining
+        - Developed frameworks for determining user information interests, optimal timing, and presentation methods
+      tags: Deep Learning, Data Mining, Team Leadership, Predictive Systems, Growth
+
+    - title: Software Engineer to Senior Staff Software Engineer
+      institution: Google, San Francisco Bay Area
+      year: 2012 - 2018
+      description:
+        - Led proactive search initiatives using personalized and contextually-relevant signals to enhance Search experience
+        - Led the spelling correction team and Cross Language Information Retrieval (CLIR) team, making search language-agnostic
+        - Developed and launched web-scale contextual spell checker that revolutionized document editing by adapting Search spelling technology (2012 launch). System detected context-specific errors traditional spell checkers missed, with documented cases of catching 38+ errors in professionally edited manuscripts. Featured in author Amy Stewart's review "The genius behind this technology...you are invited to Thanksgiving every year."
+      tags: Spell Check, ML Systems, Technical Leadership, Search Features
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Computer Science
+      institution: National University of Singapore, Singapore
+      year: 2003 - 2007
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Funded by A*Star-NUS Graduate Fellowship
+        - Thesis: On Forward Pruning in Game-Tree Search
+        - Research focus on game AI and machine learning
 
-- title: Experience
+    - title: BMath, Double Degree
+      institution: University of Waterloo, Canada
+      year: 1997 - 2000
+      description:
+        - Double Honors Degree in Pure Mathematics and Computer Science
+        - Graduated with Distinction
+
+- title: Selected Publications
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2021
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - "Lim, Y. J., Linn, J., Liang, Y., Steinebach, C., Lu, W. L., Kim, D. H., & Kunz, J. (2021). Predicting intent of a search for a particular context."
+    - year: 2018
       items:
-        - Max Planck Medal
+        - "Lim, Y. J., Kunz, J., Linn, J. G., Gilliland, C. J., Faden, D., & Jhala, S. (2018). Predicting user needs for a particular context."
+    - year: 2007
+      items:
+        - "Lim, Y. J. (2007). On Forward Pruning in Game-Tree Search."
+        - "Lim, Y. J., & Teh, Y. W. (2007). Variational Bayesian approach to movie rating prediction. Proceedings of KDD Cup and Workshop, 15-21."
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Links
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Professional:</u> <a href="https://linkedin.com/in/yewjinlim">LinkedIn</a>
+    - <u>Notable Projects:</u> <a href="https://drive.googleblog.com/2012/03/spell-checking-powered-by-web.html">Spell Checking Powered by the Web</a>
+
+- title: Interests and Activities
+  type: list
+  contents:
+    - <u>Personal Interests:</u> Gardening, Meditation, Reading
+    - <u>Technical Interests:</u> AI/ML, Search Systems, Engineering Leadership
