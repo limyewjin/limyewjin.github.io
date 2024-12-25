@@ -3,10 +3,8 @@ layout: post
 comments: true
 title: Estimating the Probability of Not Proposing an Ethereum Block
 date: 2024-01-27 08:00:00
-description: When your solo staking setup isn't proposing, you are asking WHAT ARE THE ODDS?!
-featured: true
+description: When your solo staking setup isn't proposing, you are asking "WHAT ARE THE ODDS?!"
 ---
-
 **Plot**: [yewjin.com/assets/html/eth_block_probability.html](https://www.yewjin.com/assets/html/eth_block_probability.html) is a plot of the probabilities where you can fit in your own values.
 
 **Note (June 2024)**: This blog post is updated regularly (ideally daily!) with the current eligible ETH value from the blockchain.
@@ -15,20 +13,18 @@ As an Ethereum staker, one of the key aspects of participation in the network is
 
 The Ethereum PoS protocol, specifically in the context of block validation, operates with discrete time units called slots. A new block is proposed in each slot by a randomly selected validator. The probability of a specific validator being chosen for any given slot is inversely proportional to the total number of effective ETH balance of each validator. See [Block Proposal (ethereum.org)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/block-proposal/)
 
-1. **Total Eligible ETH (N):** The total amount of eligible ETH in the network. As of 2024-12-08 12:42, it's approximately 34315892 ETH.
+1. **Total Eligible ETH (N):** The total amount of eligible ETH in the network. As of 2024-12-24 20:38, it's approximately 33885748 ETH.
 2. **Your ETH (V):** The amount of ETH you have staked.
 3. **Time Period (T):** The duration for which you want to calculate the probability, measured in slots. (Note: The Ethereum network typically operates with a slot time of 12 seconds.)
 
 ### Calculating the Probability
 
 The probability of not proposing a block in a single slot, for a user with V ETH, is calculated as follows:
-
 ```
 Probability (Single Slot) = 1 - (V / N)
 ```
 
 To extend this to a specific time period, T slots, the formula becomes:
-
 ```
 Probability (T Slots) = (1 - (V / N))^T
 ```
@@ -42,32 +38,30 @@ Handy number of slots in various time periods
 
 ## Probabilities for 32 ETH
 
-- **Probability of not proposing a block in one slot:** $$ 1 - \frac{32}{34315892} $$
-- **One Hour (300 slots):** $$ \left( 1 - \frac{32}{34315892} \right)^{300} $$
-- **One Day (7,200 slots):** $$ \left( 1 - \frac{32}{34315892} \right)^{7200} $$
-- **One Week (50,400 slots):** $$ \left( 1 - \frac{32}{34315892} \right)^{50400} $$
-- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{32}{34315892} \right)^{216000} $$
+- **Probability of not proposing a block in one slot:** $$ 1 - \frac{32}{33885748} $$
+- **One Hour (300 slots):** $$ \left( 1 - \frac{32}{33885748} \right)^{300} $$
+- **One Day (7,200 slots):** $$ \left( 1 - \frac{32}{33885748} \right)^{7200} $$
+- **One Week (50,400 slots):** $$ \left( 1 - \frac{32}{33885748} \right)^{50400} $$
+- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{32}{33885748} \right)^{216000} $$
 
 ### Summary
-
 - **Chance of not proposing a block in one hour:** Approximately 99.97%
-- **Chance of not proposing a block in one day:** Approximately 99.33%
-- **Chance of not proposing a block in one week:** Approximately 95.41%
-- **Chance of not proposing a block in one month:** Approximately 81.76%
+- **Chance of not proposing a block in one day:** Approximately 99.32%
+- **Chance of not proposing a block in one week:** Approximately 95.35%
+- **Chance of not proposing a block in one month:** Approximately 81.55%
 
 ## Probabilities for 3200 ETH
 
-- **Probability of not proposing a block in one slot:** $$ 1 - \frac{3200}{34315892} $$
-- **One Hour (300 slots):** $$ \left( 1 - \frac{3200}{34315892} \right)^{300} $$
-- **One Day (7,200 slots):** $$ \left( 1 - \frac{3200}{34315892} \right)^{7200} $$
-- **One Week (50,400 slots):** $$ \left( 1 - \frac{3200}{34315892} \right)^{50400} $$
-- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{3200}{34315892} \right)^{216000} $$
+- **Probability of not proposing a block in one slot:** $$ 1 - \frac{3200}{33885748} $$
+- **One Hour (300 slots):** $$ \left( 1 - \frac{3200}{33885748} \right)^{300} $$
+- **One Day (7,200 slots):** $$ \left( 1 - \frac{3200}{33885748} \right)^{7200} $$
+- **One Week (50,400 slots):** $$ \left( 1 - \frac{3200}{33885748} \right)^{50400} $$
+- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{3200}{33885748} \right)^{216000} $$
 
 ### Summary
-
-- **Chance of not proposing a block in one hour:** Approximately 97.24%
-- **Chance of not proposing a block in one day:** Approximately 51.10%
-- **Chance of not proposing a block in one week:** Approximately 0.91%
+- **Chance of not proposing a block in one hour:** Approximately 97.21%
+- **Chance of not proposing a block in one day:** Approximately 50.66%
+- **Chance of not proposing a block in one week:** Approximately 0.86%
 - **Chance of not proposing a block in one month:** Practically 0% (very close to zero)
 
 # Calculating the Probability of Proposing At Least B Blocks
@@ -86,10 +80,10 @@ where $$ \lambda = T \times \left( \frac{V}{N} \right) $$.
 ### Example Probabilities for 32 ETH
 
 <!-- prettier-ignore -->
-- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum_{k=0}^{0} \frac{\lambda\*{1 \, day}^k e^{-\lambda\_{1 \, day}}}{k!} $$
+- **Probability of proposing at least 1 block in one day:** $$ 1 - \sum_{k=0}^{0} \frac{\lambda_{1 \, day}^k e^{-\lambda_{1 \, day}}}{k!} $$
 <!-- prettier-ignore -->
-- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum_{k=0}^{1} \frac{\lambda\*{1 \, week}^k e^{-\lambda\_{1 \, week}}}{k!} $$
+- **Probability of proposing at least 2 blocks in one week:** $$ 1 - \sum_{k=0}^{1} \frac{\lambda_{1 \, week}^k e^{-\lambda_{1 \, week}}}{k!} $$
 <!-- prettier-ignore -->
-- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum_{k=0}^{4} \frac{\lambda\*{1 \, month}^k e^{-\lambda\_{1 \, month}}}{k!} $$
+- **Probability of proposing at least 5 blocks in one month:** $$ 1 - \sum_{k=0}^{4} \frac{\lambda_{1 \, month}^k e^{-\lambda_{1 \, month}}}{k!} $$
 
 Finally, if you want to see the latest statistics on block proposal frequency, see [LuckyStaker.com](https://luckystaker.com/home/)
