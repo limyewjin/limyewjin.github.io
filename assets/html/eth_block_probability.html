@@ -10,10 +10,8 @@
     <input type="number" id="eth" min="1" value="32" />
     <br />
     <label for="totalEligibleEther">Total Eligible Ether:</label>
-    <input type="number" id="totalEligibleEther" min="1" value="33885716" />
-    <span style="font-size: 12px; color: gray"
-      >(Last updated: 2024-12-24 23:26)</span
-    >
+    <input type="number" id="totalEligibleEther" min="1" value="33885972" />
+    <span style="font-size: 12px; color: gray">(Last updated: 2024-12-24 23:28)</span>
     <br />
     <label for="days">Number of Days:</label>
     <input type="number" id="days" min="1" value="30" />
@@ -46,9 +44,7 @@
 
       function plotProbability() {
         const ethAmount = parseInt(document.getElementById("eth").value);
-        const totalEligibleEther = parseInt(
-          document.getElementById("totalEligibleEther").value,
-        );
+        const totalEligibleEther = parseInt(document.getElementById("totalEligibleEther").value);
         const days = parseInt(document.getElementById("days").value);
         const minBlocks = parseInt(document.getElementById("blocks").value);
 
@@ -64,14 +60,10 @@
           const lambda = slots * (V / N);
           timeUnits.push(`Day ${i}`);
           notProposingProbabilities.push(Math.pow(1 - V / N, slots));
-          atLeastBlocksProbabilities.push(
-            cumulativePoissonProbability(lambda, minBlocks),
-          );
+          atLeastBlocksProbabilities.push(cumulativePoissonProbability(lambda, minBlocks));
         }
 
-        const ctx = document
-          .getElementById("probabilityChart")
-          .getContext("2d");
+        const ctx = document.getElementById("probabilityChart").getContext("2d");
 
         if (chart) {
           chart.destroy();
@@ -124,10 +116,7 @@
             tooltips: {
               callbacks: {
                 label: function (tooltipItem, data) {
-                  const probability =
-                    data.datasets[tooltipItem.datasetIndex].data[
-                      tooltipItem.index
-                    ];
+                  const probability = data.datasets[tooltipItem.datasetIndex].data[tooltipItem.index];
                   const percentage = (probability * 100).toFixed(2);
                   return `Probability: ${percentage}%`;
                 },
@@ -142,11 +131,6 @@
         plotProbability();
       };
     </script>
-    <p>
-      See accompanying
-      <a href="https://yewjin.com/blog/2024/eth-validator-block-probability/"
-        >blog post</a
-      >
-    </p>
+    <p>See accompanying <a href="https://yewjin.com/blog/2024/eth-validator-block-probability/">blog post</a></p>
   </body>
 </html>
