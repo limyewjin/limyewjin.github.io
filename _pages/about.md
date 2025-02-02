@@ -39,7 +39,7 @@ _YJ_: "Yes, I am Yew Lim."
 
 # Random factoid
 
-I am [acknowledged for helping](https://yewjin.com/assets/img/bayesian_data_analysis_thanked.jpg) in the book [Bayesian Data Analysis](https://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
+I am [acknowledged for helping](https://yewjin.com/assets/img/bayesian_data_analysis_thanked.jpg) in the book [Bayesian Data Analysis](https://sites.stat.columbia.edu/~gelman/book/) by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
 
 # Links
 
