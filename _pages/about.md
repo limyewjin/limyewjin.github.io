@@ -37,10 +37,6 @@ _Officer_: "Are you you Lim?"<br>
 _YJ_: _realization_<br>
 _YJ_: "Yes, I am Yew Lim."
 
-# Random factoid
-
-I am [acknowledged for helping](https://yewjin.com/assets/img/bayesian_data_analysis_thanked.jpg) in the book [Bayesian Data Analysis](http://www.stat.columbia.edu/~gelman/book/) by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin.
-
 # Links
 
 All about the links at [yewjin.omg.lol](https://yewjin.omg.lol)
