@@ -24,6 +24,9 @@ In Asia, the standard template for names is reversed
 i.e., [LAST NAME] [FIRST NAME]
 To avoid any confusion, my last name is Lim. My first name is a double first name and basically consists of two separate words, Yew Jin, and when pronounced, sounds like "Eugene". In fact, over the years, I respond more readily to "Eugene" than the proper pronunciation of my name!
 
+_First Name_: Yew Jin
+_Last Name_: Lim
+
 # Anecdote about my name
 
 One of the most entertaining conversations in my life is with a school administrative officer from the University of Waterloo.
