@@ -5,6 +5,7 @@ title: AI is reshaping work
 date: 2025-02-09 08:00:00
 description: How AI is Reshaping Professional Career Paths
 ---
+
 The rise of Gen AI looking more like AGI is fundamentally changing not just how we work, but how entire careers develop. What happens when this upheaves how we organize and train our workforce?
 
 AI isn't just automating routine tasks anymore - it's taking on complex work in writing, coding, and other knowledge-based fields. But the story isn't simple replacement; it's transformation.
@@ -39,5 +40,3 @@ These capabilities keep humans essential in leadership roles, at least for the f
 The future isn't about competing with AI - it's about leveraging it effectively while developing uniquely human strengths. The transition presents challenges, but understanding these shifts helps us prepare for and shape the future of work.
 
 Success in this new era won't come from resisting change, but from adapting to it thoughtfully. The goal is to thrive in it by finding new ways to add value in a very different yet similar workplace.
-
-
