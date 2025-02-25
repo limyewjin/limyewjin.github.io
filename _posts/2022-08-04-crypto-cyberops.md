@@ -10,7 +10,7 @@ categories: tutorial
 
 Here's my multifactor way to store your crypto safely with a break glass scenario for emergencies:
 
-Use [Gnosis Safe](https://gnosis-safe.io/) to manage a multi-sig wallet secured by multiple hardware wallets like those from [Ledger](https://www.ledger.com/), [Grid+ Lattice1](https://gridplus.io/products/grid-lattice1), and [Trezor](https://trezor.io/).
+Use Gnosis Safe to manage a multi-sig wallet secured by multiple hardware wallets like those from [Ledger](https://www.ledger.com/), [Grid+ Lattice1](https://gridplus.io/products/grid-lattice1), and [Trezor](https://trezor.io/).
 
 Next, secure your hardware wallets with the following protocol:
 
