@@ -6,7 +6,7 @@ date: 2024-12-01 08:00:00
 description: I tried a lot of mechanical pencils; this is the one I use and why
 ---
 
-You know that saying about cameras - the best one is the one you have with you? Well, I've found the same holds true for mechanical pencils. And after years of frustration with lead-leaking pencils staining my clothes and stabbing me through my pockets, I found my perfect everyday companion a while back and finally got arond to touting it: the [Pentel Sharp Kerry](https://www.amazon.com/Pentel-Mechanical-Pencil-Kerry-P1035-AD/dp/B0013NE3VA)
+You know that saying about cameras - the best one is the one you have with you? Well, I've found the same holds true for mechanical pencils. And after years of frustration with lead-leaking pencils staining my clothes and stabbing me through my pockets, I found my perfect everyday companion a while back and finally got arond to touting it: the [Pentel Sharp Kerry](https://www.pentel.com/products/sharp-kerry-mechanical-pencil)
 
 Let me back up a bit. Like many of us, I've had a love-hate relationship with mechanical pencils. While Wirecutter [crowned](https://www.nytimes.com/wirecutter/reviews/best-mechanical-pencils/) the Blick Premier as their top pick (and it's indeed an excellent pencil), I found my perfect match in their "Also great" pick: the Pentel Sharp Kerry. It solves the one problem that matters most to me - it has a cap. Simple, right? But this isn't just any cap. The designers at Pentel clearly spent some serious time thinking about how people actually use their pencils.
 
