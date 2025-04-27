@@ -1,35 +1,35 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Dad Joke Voting</title>
-    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+    <link href="https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
     <div class="container">
-        <div class="overlay">
-            <h1 id="joke-lead">Loading joke...</h1>
-            <p class="punchline" id="joke-punchline"></p>
-            <div class="voting-buttons">
-                <button id="thumbs-up" class="vote-button">👍</button>
-                <button id="thumbs-down" class="vote-button">👎</button>
-                <button id="leaderboard-btn" class="vote-button">🏆</button>
-            </div>
-            <div id="vote-count" class="score">Votes: 0</div>
+      <div class="overlay">
+        <h1 id="joke-lead">Loading joke...</h1>
+        <p class="punchline" id="joke-punchline"></p>
+        <div class="voting-buttons">
+          <button id="thumbs-up" class="vote-button">👍</button>
+          <button id="thumbs-down" class="vote-button">👎</button>
+          <button id="leaderboard-btn" class="vote-button">🏆</button>
         </div>
+        <div id="vote-count" class="score">Votes: 0</div>
+      </div>
     </div>
 
     <!-- Leaderboard Modal -->
     <div id="leaderboard-modal" class="modal">
-        <div class="modal-content">
-            <span class="close">&times;</span>
-            <h2>Top Dad Jokes</h2>
-            <div id="leaderboard-list"></div>
-        </div>
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <h2>Top Dad Jokes</h2>
+        <div id="leaderboard-list"></div>
+      </div>
     </div>
 
     <script src="script.js"></script>
-</body>
-</html> 
+  </body>
+</html>
