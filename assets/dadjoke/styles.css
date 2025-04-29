@@ -46,7 +46,7 @@ h1 {
 .punchline {
   margin: 20px 0;
   font-weight: 400;
-  font-size: calc((1.5em + 1.5vw) * 1.5);
+  font-size: calc((1.5em + 1.5vw) * 2.5);
   line-height: 1.2;
 }
 
