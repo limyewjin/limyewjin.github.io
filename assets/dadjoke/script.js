@@ -75,7 +75,7 @@ function handleVote(vote) {
     votesData[currentJoke.punchline] = {
       lead: currentJoke.lead,
       punchline: currentJoke.punchline,
-      votes: 0
+      votes: 0,
     };
   }
 
