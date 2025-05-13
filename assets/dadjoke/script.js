@@ -49,8 +49,10 @@ async function loadJoke() {
     }
 
     // Load votes for current joke
-    const votes = JSON.parse(localStorage.getItem("jokeVotes"));
-    currentJoke.votes = votes[currentJoke.punchline] || 0;
+    const votesData = JSON.parse(localStorage.getItem("jokeVotes"));
+    // Retrieve the joke object from localStorage using punchline as key
+    const storedJoke = votesData[currentJoke.punchline];
+    currentJoke.votes = storedJoke ? storedJoke.votes : 0;
     updateVoteDisplay();
   } catch (error) {
     console.error("Error loading joke:", error);
@@ -66,26 +68,39 @@ function updateVoteDisplay() {
 
 // Handle voting
 function handleVote(vote) {
-  const votes = JSON.parse(localStorage.getItem("jokeVotes"));
-  votes[currentJoke.punchline] = (votes[currentJoke.punchline] || 0) + vote;
-  localStorage.setItem("jokeVotes", JSON.stringify(votes));
-  currentJoke.votes = votes[currentJoke.punchline];
+  const votesData = JSON.parse(localStorage.getItem("jokeVotes"));
+
+  // Ensure the current joke exists in localStorage
+  if (!votesData[currentJoke.punchline]) {
+    votesData[currentJoke.punchline] = {
+      lead: currentJoke.lead,
+      punchline: currentJoke.punchline,
+      votes: 0
+    };
+  }
+
+  votesData[currentJoke.punchline].votes += vote;
+  localStorage.setItem("jokeVotes", JSON.stringify(votesData));
+  currentJoke.votes = votesData[currentJoke.punchline].votes;
   updateVoteDisplay();
 }
 
 // Show leaderboard
 function showLeaderboard() {
-  const votes = JSON.parse(localStorage.getItem("jokeVotes"));
-  const sortedJokes = Object.entries(votes)
-    .sort(([, a], [, b]) => b - a)
-    .slice(0, 10);
+  const votesData = JSON.parse(localStorage.getItem("jokeVotes"));
+  // Convert the object of jokes into an array of [punchline, jokeObject]
+  const sortedJokes = Object.entries(votesData)
+    .map(([, jokeObj]) => jokeObj) // Get only the joke objects
+    .sort((a, b) => b.votes - a.votes) // Sort by votes in descending order
+    .slice(0, 10); // Get top 10
 
   leaderboardList.innerHTML = sortedJokes
     .map(
-      ([joke, votes], index) => `
+      (joke, index) => `
             <div class="leaderboard-item">
-                <strong>#${index + 1}</strong> (${votes} votes)<br>
-                ${joke}
+                <strong>#${index + 1}</strong> (${joke.votes} votes)<br>
+                <span class="leaderboard-joke-lead">${joke.lead}</span><br>
+                <span class="leaderboard-joke-punchline">${joke.punchline}</span>
             </div>
         `
     )
