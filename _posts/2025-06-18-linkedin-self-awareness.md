@@ -5,7 +5,7 @@ giscus_comments: true
 title: Software Engineering Self Awareness
 date: 2025-06-18 08:00:10
 tags: linkedin personal
-description: Breaking down the "Know Thyself" step of career growth: understanding who you are now through feedback, who you want to be through exploration, and how to bridge the gap.
+description: Breaking down the "Know Thyself" step of career growth - understanding who you are now through feedback, who you want to be through exploration, and how to bridge the gap.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_software-engineering-management-activity-7264714747848065024-1GTL?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

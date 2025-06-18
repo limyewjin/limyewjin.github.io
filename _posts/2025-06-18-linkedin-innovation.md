@@ -5,7 +5,7 @@ giscus_comments: true
 title: Navigating Innovation
 date: 2025-06-18 08:00:07
 tags: linkedin innovation
-description: Three critical lessons for leading innovation projects in big tech: embracing patience over perfection, keeping teams motivated, and navigating organizational debt.
+description: Three critical lessons for leading innovation projects in big tech - embracing patience over perfection, keeping teams motivated, and navigating organizational debt.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_after-years-of-leading-innovation-projects-activity-7256034640019234816-Vb-G?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -5,7 +5,7 @@ giscus_comments: true
 title: Impact Mindset 2
 date: 2025-06-18 08:00:20
 tags: linkedin insights
-description: Three behaviors that create real impact: finding ways to be more valuable, stepping up without formal authority, and being known for finishing what you start.
+description: Three behaviors that create real impact - finding ways to be more valuable, stepping up without formal authority, and being known for finishing what you start.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_ive-been-thinking-more-about-what-separates-activity-7285401281400131584-oH69?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

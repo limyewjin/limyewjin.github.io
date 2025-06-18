@@ -1,11 +1,10 @@
 ---
 layout: post
-comments: true
 giscus_comments: true
 title: Growth Principles 3/7
 date: 2025-06-18 08:00:02
 tags: growth linkedin
-description: Growth funnel optimization: strengthening weak points, the power of roofshots over moonshots for compound growth, and why execution beats great ideas.
+description: Growth funnel optimization - strengthening weak points, the power of roofshots over moonshots for compound growth, and why execution beats great ideas.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_guess-this-is-going-to-be-regular-series-activity-7177379520885239808-Ovax?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

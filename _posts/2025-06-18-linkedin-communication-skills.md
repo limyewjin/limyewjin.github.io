@@ -5,7 +5,7 @@ giscus_comments: true
 title: Two Core Communication Skills
 date: 2025-06-18 08:00:13
 tags: linkedin management
-description: The two fundamental communication skills every engineering leader must master: active listening and clear explanation, tailored for each level of leadership.
+description: The two fundamental communication skills every engineering leader must master - active listening and clear explanation, tailored for each level of leadership.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_two-core-communication-skills-every-engineering-activity-7270283734174593024--oX_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -5,7 +5,7 @@ giscus_comments: true
 title: Navigating Change
 date: 2025-06-18 08:00:31
 tags: linkedin personal change
-description: Five strategies for navigating inevitable change: acceptance, grounding through daily practices, thoughtful responding, focusing on controllables, and simplifying decisions.
+description: Five strategies for navigating inevitable change - acceptance, grounding through daily practices, thoughtful responding, focusing on controllables, and simplifying decisions.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_change-is-hard-but-change-is-also-inevitable-activity-7299149598470651905-5jpt?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn
