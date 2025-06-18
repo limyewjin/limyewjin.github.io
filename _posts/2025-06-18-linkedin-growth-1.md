@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 giscus_comments: true
 title: Growth Principles 1/7
 date: 2025-06-18 08:00:00

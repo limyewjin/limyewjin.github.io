@@ -2,7 +2,6 @@
 layout: post
 comments: true
 giscus_comments: true
-giscus_comments: true
 title: Mastering Software Engineering Problem-Solving
 date: 2025-06-18 08:00:11
 tags: linkedin insights

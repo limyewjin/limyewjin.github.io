@@ -2,7 +2,6 @@
 layout: post
 comments: true
 giscus_comments: true
-giscus_comments: true
 title: Build Great Teams
 date: 2025-06-18 08:00:12
 tags: linkedin

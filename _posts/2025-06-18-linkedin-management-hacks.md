@@ -2,7 +2,6 @@
 layout: post
 comments: true
 giscus_comments: true
-giscus_comments: true
 title: Software Engineering Management Hacks
 date: 2025-06-18 08:00:09
 tags: linkedin management

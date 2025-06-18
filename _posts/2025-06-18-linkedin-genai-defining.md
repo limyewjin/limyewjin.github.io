@@ -2,7 +2,6 @@
 layout: post
 comments: true
 giscus_comments: true
-giscus_comments: true
 title: GenAI Defining Moment
 date: 2025-06-18 08:00:35
 tags: linkedin ai insights

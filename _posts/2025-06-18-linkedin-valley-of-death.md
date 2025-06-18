@@ -2,7 +2,6 @@
 layout: post
 comments: true
 giscus_comments: true
-giscus_comments: true
 title: Valley of Death
 date: 2025-06-18 08:00:15
 tags: linkedin innovation
