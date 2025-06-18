@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Growth Principles 6/7
 date: 2025-06-18 08:00:05
 tags: growth linkedin
-description: Growth Principles 6/7
+description: Systems thinking for growth - how breaking down silos and coordinating across teams reveals hidden opportunities, especially during high-traffic events.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_in-my-sixth-growth-insights-post-i-want-activity-7181316977116749826-48tN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

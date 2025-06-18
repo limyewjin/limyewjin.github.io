@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Mastering Software Engineering Problem-Solving
 date: 2025-06-18 08:00:11
-tags: problemsolving linkedin
-description: Mastering Software Engineering Problem-Solving
+tags: linkedin insights
+description: The second step in building competency - mastering problem-solving through taking ownership, identifying core problems, and evaluating solutions with trade-offs.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_master-problem-solving-the-key-to-career-activity-7265771366623129601-eEnN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

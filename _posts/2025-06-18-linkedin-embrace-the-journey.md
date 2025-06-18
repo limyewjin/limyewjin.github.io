@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Embrace the Journey
 date: 2025-06-18 08:00:18
-tags: linkedin life
-description: Embrace the Journey
+tags: linkedin personal
+description: How to find fulfillment in the process rather than just outcomes through daily rituals, patience with growth, and reframing setbacks as learning opportunities.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_life-isnt-about-reaching-destinationsits-activity-7281152733468860416-QsUC?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

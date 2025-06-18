@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: GenAI Defining Moment
 date: 2025-06-18 08:00:35
-tags: linkedin genai
-description: GenAI Defining Moment
+tags: linkedin ai insights
+description: Why the AI revolution represents our defining moment - a choice between creating the future or waiting for it, with parallels to joining Google in 2007.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_ive-been-thinking-about-defining-moments-activity-7305723154549653504-q0SU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

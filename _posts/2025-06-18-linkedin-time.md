@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Time
 date: 2025-06-18 08:00:21
-tags: linkedin life
-description: Time
+tags: linkedin personal
+description: Reflections on time's limitations - why we can't do everything with our 80,000 working hours and 4,000 weeks, and how scarcity creates intentional living.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_ive-been-thinking-a-lot-about-time-lately-activity-7286567638808375296-0u6L?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Crypto Cyberops
 date: 2022-08-04 08:00:00
 description: Writing this down because the other liability is forgetting the protocol

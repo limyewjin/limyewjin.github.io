@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Quick Prompt Engineering Tip 2 - Master Length Control in LLMs 📏
 date: 2024-11-24 08:00:00
 description: One common requirement I have using LLMs is controlling their response length
-tags: llm
+tags: ai tutorial
 categories: tutorial
 ---
 

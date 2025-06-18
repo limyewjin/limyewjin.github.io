@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Quick Prompt Engineering Tip 3 - Grounding LLM Responses
 date: 2024-12-01 08:00:01
 description: Grounding is key, but how should you present the info to LLMs?
-tags: llm
+tags: ai tutorial
 categories: tutorial
 ---
 

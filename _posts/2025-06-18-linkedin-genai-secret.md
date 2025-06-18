@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: GenAI Secret Sauce
 date: 2025-06-18 08:00:34
-tags: linkedin genai
-description: GenAI Secret Sauce
+tags: linkedin ai insights
+description: Why evaluation datasets, not code, are the real competitive advantage in AI startups - insights from a YC founder about building proprietary "gold standard" data.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_ai-revolution-what-nobody-else-is-seeing-activity-7304302169141170177-VA3X?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Bullshit Machines
 date: 2025-06-18 08:00:29
-tags: linkedin genai
-description: Bullshit Machines
+tags: linkedin ai insights
+description: Reflections on "The Bullshit Machines" course and understanding AI's limitations while leveraging its potential to augment human thinking.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_introduction-activity-7297083741028372480-YNi5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

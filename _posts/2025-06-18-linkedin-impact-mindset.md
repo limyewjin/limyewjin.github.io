@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Impact Mindset
 date: 2025-06-18 08:00:19
-tags: linkedin perspective
-description: Impact Mindset
+tags: linkedin insights
+description: What creates the biggest career impact - believing you can shape outcomes, understanding multiple perspectives, and seeing change as opportunity rather than disruption.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_ive-been-reflecting-lately-on-the-moments-activity-7283906226726281216-jXhm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

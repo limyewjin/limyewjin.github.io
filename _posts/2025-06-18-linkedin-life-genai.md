@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Life and GenAI
 date: 2025-06-18 08:00:17
-tags: linkedin life
-description: Life and GenAI
+tags: linkedin personal ai
+description: How contemplating mortality from a Buddhist perspective has deepened appreciation for life and fueled passion for transformative GenAI technologies.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_trigger-warning-this-post-discusses-perspectives-activity-7277469239437893632-HvWc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

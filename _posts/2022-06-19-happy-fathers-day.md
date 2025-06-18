@@ -4,7 +4,7 @@ comments: true
 title: Happy Father's Day
 date: 2022-06-19 10:00:00
 description: This blog post brought to you by AI.
-tags: llm
+tags: ai
 categories: experiment
 ---
 

@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Communicating Upwards
 date: 2025-06-18 08:00:22
-tags: linkedin communications
-description: Communicating Upwards
+tags: linkedin communication
+description: How to communicate complex technical concepts to executives by leading with impact, providing context before complexity, and layering your message.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_as-a-software-engineer-ive-learned-the-activity-7288605505604726785-osJ3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

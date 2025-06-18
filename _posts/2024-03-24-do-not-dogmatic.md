@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: For growth's sake, don't be dogmatic
 date: 2024-03-24 08:00:00
 description: I prefer live experiments over getting punched in the face
-tags: growth
+tags: growth insights
 ---
 
 I am reading [Build: An Unorthodox Guide to Making Things Worth Making Book](https://g.co/kgs/mVUfke) by Tony Fadell -

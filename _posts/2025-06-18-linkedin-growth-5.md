@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Growth Principles 5/7
 date: 2025-06-18 08:00:04
 tags: growth linkedin
-description: Growth Principles 5/7
+description: High Value Actions for user engagement - identifying and prioritizing actions that drive loyalty, with real-world examples from LinkedIn, Spotify, and Duolingo.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_heres-the-fifth-installment-of-the-growth-activity-7179672295085408256-An8s?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

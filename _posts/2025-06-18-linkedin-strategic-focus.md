@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Strategic Focus
 date: 2025-06-18 08:00:38
-tags: linkedin life
-description: Strategic Focus
+tags: linkedin personal
+description: How shifting from multitasking to daily strategic focus as an engineering director creates compound impact through dedicated time blocks and sustainable energy practices.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_as-an-engineering-director-i-used-to-think-activity-7310544134568562688-f7cV?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

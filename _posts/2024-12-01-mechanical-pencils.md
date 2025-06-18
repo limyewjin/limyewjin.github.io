@@ -1,9 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: The Mechanical Pencil I Use
 date: 2024-12-01 08:00:00
 description: I tried a lot of mechanical pencils; this is the one I use and why
+tags: personal insights
 ---
 
 You know that saying about cameras - the best one is the one you have with you? Well, I've found the same holds true for mechanical pencils. And after years of frustration with lead-leaking pencils staining my clothes and stabbing me through my pockets, I found my perfect everyday companion a while back and finally got arond to touting it: the [Pentel Sharp Kerry](https://www.pentel.com/products/sharp-kerry-mechanical-pencil)

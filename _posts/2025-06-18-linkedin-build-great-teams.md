@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Build Great Teams
 date: 2025-06-18 08:00:12
 tags: linkedin
-description: Build Great Teams
+description: The third pillar of competency building - how to create winning teams through right culture, hiring and retaining talent, and collaborative success whether as manager or IC.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_build-great-teams-the-secret-to-long-term-activity-7266922486934462465-kTvi?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

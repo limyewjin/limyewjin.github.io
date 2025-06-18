@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Grounding myself
 date: 2025-06-18 08:00:37
-tags: linkedin life
-description: Grounding myself
+tags: linkedin personal
+description: How focusing on what you can control rather than external forces like layoffs and industry changes creates resilience and strategic energy investment.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_in-a-world-spinning-faster-by-the-day-the-activity-7308736524857090049-16iz?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

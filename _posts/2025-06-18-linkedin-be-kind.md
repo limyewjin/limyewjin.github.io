@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Be Kind
 date: 2025-06-18 08:00:27
-tags: linkedin life
-description: Be Kind
+tags: linkedin personal
+description: How to be kind while being strategic at work - surrounding yourself with ethical people, setting boundaries, and working hard on the right things.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_in-our-professional-life-we-often-encounter-activity-7296207101280845825-EMYj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

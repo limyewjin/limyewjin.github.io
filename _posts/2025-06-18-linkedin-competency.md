@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Concentric Circles of Competency
 date: 2025-06-18 08:00:08
-tags: competency linkedin
-description: Concentric Circles of Competency
+tags: linkedin career
+description: A three-step framework for building career competency from self-awareness to problem-solving mastery to building great teams, drawn from years at Google.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_after-many-years-at-google-i-often-hear-activity-7263593393191026689-Jui1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

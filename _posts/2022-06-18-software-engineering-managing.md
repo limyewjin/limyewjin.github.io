@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Software Engineering Management
 date: 2022-06-18 18:00:00
 description: Compilation of heuristics, tips and observations since starting my software engineering management journey.
-tags: techleadership
+tags: techleadership management
 categories: management-tips
 ---
 

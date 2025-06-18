@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Effective delegation by visioneering
 date: 2022-06-19 10:00:00
 description: Visioneering is such a great word
-tags: techleadership
+tags: techleadership management
 categories: management-tips
 ---
 

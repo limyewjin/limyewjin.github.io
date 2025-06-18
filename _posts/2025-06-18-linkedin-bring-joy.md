@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Bring Joy to Work
 date: 2025-06-18 08:00:24
 tags: linkedin motivation
-description: Bring Joy to Work
+description: Why bringing joy to work through small moments like bad jokes and tea time conversations makes tough projects better and creates memorable workdays.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_you-know-what-makes-tough-projects-better-activity-7290882542860177409-pASM?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

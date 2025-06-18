@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Intuition
 date: 2025-06-18 08:00:39
-tags: linkedin life
-description: Intuition
+tags: linkedin personal
+description: Why software engineers should trust their intuition for softer decisions while understanding its limits, and how the unconscious mind processes complex patterns.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_as-software-engineers-we-pride-ourselves-activity-7311595226978992129-2yVD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

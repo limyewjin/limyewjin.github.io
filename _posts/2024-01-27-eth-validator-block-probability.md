@@ -1,9 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Estimating the Probability of Not Proposing an Ethereum Block
 date: 2024-01-27 08:00:00
 description: When your solo staking setup isn't proposing, you are asking "WHAT ARE THE ODDS?!"
+tags: blockchain tutorial
 ---
 
 **Plot**: [yewjin.com/assets/html/eth_block_probability.html](https://www.yewjin.com/assets/html/eth_block_probability.html) is a plot of the probabilities where you can fit in your own values.

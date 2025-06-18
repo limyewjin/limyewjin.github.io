@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Growth Principles 7/7
 date: 2025-06-18 08:00:06
 tags: growth linkedin
-description: Growth Principles 7/7
+description: The power of copy experiments - how small text changes can drive 20-50% improvements in engagement, with lessons from Steve Krug and real-world case studies.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_the-seventh-installation-of-growth-insights-activity-7184217960817848320-dizv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

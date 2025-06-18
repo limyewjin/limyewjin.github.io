@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Monetizing using NFTs
 date: 2022-04-26 21:00:30
 description: Is the new monetization model already here?

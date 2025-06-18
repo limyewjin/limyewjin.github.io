@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Navigating Burnout
 date: 2025-06-18 08:00:32
-tags: linkedin life burnout
-description: Navigating Burnout
+tags: linkedin personal
+description: Why giving yourself permission to rest is essential for avoiding burnout, plus how playful side projects like generating authentic dad jokes help maintain mental health.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_avoiding-burnout-ive-been-reflecting-on-activity-7300392136984645632--uhm?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: GenAI Future
 date: 2025-06-18 08:00:26
-tags: linkedin genai
-description: GenAI Future
+tags: linkedin ai insights
+description: Why engineers using AI will replace those who don't - practical advice for staying ahead by using AI tools now and focusing on uniquely human skills.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_how-i-think-about-gen-ai-and-its-impact-on-activity-7294429293596549120-11LF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

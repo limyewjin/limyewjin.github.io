@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: One Miracle Rule
 date: 2025-06-18 08:00:16
 tags: linkedin innovation
-description: One Miracle Rule
+description: The "One Miracle Rule" for evaluating tech projects - allowing one major unknown per initiative to balance innovation with realistic execution paths.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_we-have-one-rule-in-my-org-for-evaluating-activity-7275539056288030720-4oKx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

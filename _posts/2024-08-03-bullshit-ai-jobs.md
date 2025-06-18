@@ -4,6 +4,7 @@ comments: true
 title: What's Next?
 date: 2024-08-03 08:00:00
 description: I hope I'm wrong on this one...
+tags: ai insights
 ---
 
 John Maynard Keynes predicted a 15-hour workweek, but we've instead created millions of pointless jobs. It's like how we have 100x more powerful machines and storage, yet our calculator apps have bloated to use 99x of that improvement.

@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Valley of Death
 date: 2025-06-18 08:00:15
 tags: linkedin innovation
-description: Valley of Death
+description: Navigating the valley between idea and impact in Big Tech - why products die slow deaths, comfortable mediocrity is dangerous, and tracking learning velocity matters.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_the-valley-of-death-between-idea-and-impact-activity-7273357550790623232-ZuX9?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

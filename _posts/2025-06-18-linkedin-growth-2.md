@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Growth Principles 2/7
 date: 2025-06-18 08:00:01
 tags: growth linkedin
-description: Growth Principles 2/7
+description: Operational growth insights: balancing portfolio management between known levers and bets, the compound effect of getting many things right, and why logistics wins growth.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_since-my-posting-on-growth-garnered-lots-activity-7175824858574913537-HOkn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

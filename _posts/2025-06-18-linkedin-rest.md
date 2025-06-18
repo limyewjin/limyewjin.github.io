@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Slowing down to move fast
 date: 2025-06-18 08:00:36
-tags: linkedin life
-description: Slowing down to move fast
+tags: linkedin personal
+description: Why choosing rest over constant productivity isn't laziness but necessary maintenance, and how slowing down can lead to more sustainable achievement.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_slowing-down-to-move-fast-or-why-i-choose-activity-7306720390800711680-6h1l?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

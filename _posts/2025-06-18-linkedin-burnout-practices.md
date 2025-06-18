@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Coping with Burnout
 date: 2025-06-18 08:00:42
-tags: linkedin life
-description: Coping with Burnout
+tags: linkedin personal
+description: Practical strategies for preventing burnout while staying engaged with fast-paced work, including identifying energy patterns and building recovery rituals.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_its-been-a-few-weeks-since-i-posted-and-activity-7329206012123455489-AyGn?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

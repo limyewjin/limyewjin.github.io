@@ -1,10 +1,12 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
+giscus_comments: true
 title: Software Engineering Management Hacks
 date: 2025-06-18 08:00:09
-tags: management linkedin
-description: Software Engineering Management Hacks
+tags: linkedin management
+description: Management insights including the "No Monkeys on Your Back" principle for mental energy management and balancing visioneering with problem-solving as an EM.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_no-monkeys-on-your-back-a-management-activity-7263949745398644736-P093?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

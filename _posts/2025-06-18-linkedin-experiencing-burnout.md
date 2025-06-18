@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Experiencing Burnout
 date: 2025-06-18 08:00:41
-tags: linkedin life
-description: Experiencing Burnout
+tags: linkedin personal
+description: A personal and vulnerable sharing about experiencing burnout, its three manifestations (overload, misalignment, lack of rest), and the importance of normalizing these conversations.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_i-wanted-to-share-something-personal-that-activity-7318439407835836416-JCpx?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

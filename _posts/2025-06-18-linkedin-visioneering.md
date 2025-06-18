@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Visioneering
 date: 2025-06-18 08:00:20
 tags: linkedin management
-description: Visioneering
+description: Introducing "visioneering" - a framework for bridging strategic vision and practical execution by translating ambitious ideas into cascading goals and empowering team ownership.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_on-daily-listen-showcasing-the-promise-of-activity-7285902274936160256-wVm_?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

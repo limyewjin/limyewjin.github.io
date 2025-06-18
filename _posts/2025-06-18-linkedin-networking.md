@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Networking
 date: 2025-06-18 08:00:28
-tags: linkedin networking
-description: Networking
+tags: linkedin communication
+description: Reflections on authentic networking as an introvert - building genuine friendships, adapting environments to social energy, and cultivating relationships based on shared values.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_i-have-been-thinking-about-networking-lately-activity-7296606111887998976-N4uZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Growth Principles 4/7
 date: 2025-06-18 08:00:03
 tags: growth linkedin
-description: Growth Principles 4/7
+description: Why leadership shouldn't be dogmatic about solutions - insights from Tony Fadell's "Build" on adapting to customer needs and staying humble about assumptions.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_build-an-unorthodox-guide-to-making-things-activity-7177726116948795393-N0Yd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

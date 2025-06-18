@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: How to execute on growth
 date: 2024-03-17 08:00:00
 description: How to execute on growth
-tags: growth
+tags: growth insights
 categories: tutorial
 ---
 

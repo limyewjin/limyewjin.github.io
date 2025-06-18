@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Seeing Possibilities
 date: 2025-06-18 08:00:40
-tags: linkedin life
-description: Seeing Possibilities
+tags: linkedin personal
+description: How questioning assumptions, making unexpected connections, and trying unconventional approaches leads to breakthrough solutions that others might miss.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_about-seeing-the-possibilities-others-dont-activity-7312840134800904194-xf3Z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

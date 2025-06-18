@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Whole Self
 date: 2025-06-18 08:00:25
-tags: linkedin life
-description: Whole Self
+tags: linkedin personal
+description: Exploring authenticity and the dimensions of our "whole self" - from self-care to relationships to purpose - and how conscious choices rewire automatic responses.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_i-believe-in-the-power-of-authenticity-in-activity-7293848230881107968-hFyY?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

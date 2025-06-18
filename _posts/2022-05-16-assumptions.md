@@ -1,6 +1,7 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Cryptocurrency takes time to grok
 date: 2022-05-15 08:00:00
 description: Challenging assumptions about how the world works is challenging

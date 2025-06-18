@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Motivation doesn't drive achievement
 date: 2025-06-18 08:00:23
 tags: linkedin motivation
-description: Motivation doesn't drive achievement
+description: How PhD experience taught that achievement drives motivation, not the other way around - the power of small wins and incremental progress over waiting for inspiration.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_short-essays-on-engineering-culture-activity-7290011077218603008-eCz1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

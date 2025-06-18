@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: What is Luck?
 date: 2025-06-18 08:00:33
-tags: linkedin life
-description: What is Luck?
+tags: linkedin personal
+description: Exploring whether luck is partly mindset - being optimistic enough to create opportunities, maintaining networks, staying open to timing, and turning setbacks into advantages.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_i-used-to-think-i-was-just-a-lucky-person-activity-7303651365942173696-yQqN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

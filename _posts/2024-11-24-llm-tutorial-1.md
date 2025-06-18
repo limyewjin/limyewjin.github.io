@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Quick Prompt Engineering Tip 1 - Chain Your Prompts! 🔄
 date: 2024-11-24 08:00:00
 description: The saying goes, 'Writing is rewriting.' The same applies to LLMs!
-tags: llm
+tags: ai tutorial
 categories: tutorial
 ---
 

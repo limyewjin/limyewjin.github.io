@@ -1,9 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: AI is reshaping work
 date: 2025-02-09 08:00:00
 description: How AI is Reshaping Professional Career Paths
+tags: ai career insights
 ---
 
 The rise of Gen AI looking more like AGI is fundamentally changing not just how we work, but how entire careers develop. What happens when this upheaves how we organize and train our workforce?

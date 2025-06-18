@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Why Performance Reviews
 date: 2025-06-18 08:00:14
 tags: linkedin management
-description: Why Performance Reviews
+description: The beautiful paradox of performance review season - simultaneously draining and meaningful, where carefully crafted words shape careers and build teams.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_performance-reviews-the-season-that-makes-activity-7271764919455248384-xo7k?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn

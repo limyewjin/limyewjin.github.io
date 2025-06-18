@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Ethereum 2024 Thesis
 date: 2024-02-25 08:00:00
 description: Gen AI + Ethereum
-tags: llm blockchain
+tags: ai blockchain
 categories: ideas
 ---
 

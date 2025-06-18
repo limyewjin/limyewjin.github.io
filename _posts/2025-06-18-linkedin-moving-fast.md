@@ -1,10 +1,11 @@
 ---
 layout: post
 comments: true
+giscus_comments: true
 title: Moving Fast
 date: 2025-06-18 08:00:30
-tags: linkedin velocity
-description: Moving Fast
+tags: linkedin productivity
+description: Three principles for sustainable project success: embracing iteration over revolution, prioritizing impact before exploration, and planning thoroughly while executing adaptively.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_i-wanted-to-share-three-principles-that-have-activity-7298114499113336833-2xe8?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn
