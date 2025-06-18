@@ -1,12 +1,10 @@
 ---
 layout: post
-comments: true
-giscus_comments: true
 giscus_comments: true
 title: Growth Principles 1/7
 date: 2025-06-18 08:00:00
 tags: growth linkedin
-description: Core growth principles from 5 years of search growth work: distinguishing small-g growth from big-G Growth, avoiding hope as strategy, and focusing on funnel optimization.
+description: Core growth principles from 5 years of search growth work - distinguishing small-g growth from big-G Growth, avoiding hope as strategy, and focusing on funnel optimization.
 ---
 
 Note to the reader: This is a [repost](https://www.linkedin.com/posts/yewjinlim_as-someone-who-has-worked-on-growth-in-search-activity-7175209200740937729-nYu-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAD4xmMBhqAf0RkmEot2NJkJA3gvq31H7Os) from LinkedIn
