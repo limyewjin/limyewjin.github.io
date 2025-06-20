@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://limyewjin.github.io/sitemap.xml
+Sitemap: https://yewjin.com/sitemap.xml
