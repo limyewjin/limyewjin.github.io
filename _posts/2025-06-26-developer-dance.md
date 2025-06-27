@@ -16,12 +16,12 @@ This is fine since what Karpathy (and others like myself) really advocate for is
 
 So what should we do now?
 
-For early-career engineers: practice "supervised vibe coding" - generate small functions with AI but trace through every line to understand the logic. Mid-level engineers: use LLMs as architectural rubber ducks and for boilerplate reduction, but own the design decisions. Senior engineers: create AI-safe architectures where generated components can fail gracefully, and establish team guidelines for responsible AI usage. Everyone should maintain a "playground" environment for AI experiments, separate from production. 
+For early-career engineers: practice "supervised vibe coding" - generate small functions with AI but trace through every line to understand the logic. Mid-level engineers: use LLMs as architectural rubber ducks and for boilerplate reduction, but own the design decisions. Senior engineers: create AI-safe architectures where generated components can fail gracefully, and establish team guidelines for responsible AI usage. Everyone should maintain a "playground" environment for AI experiments, separate from production.
 
 And if you are a product builder, the question becomes: how do we make augmentation the centerpiece of your product? What does it mean to be not human-first, not AI-first, but human-AI-first?
 
 This crystallizes what remains irreplaceable: human judgment, ethics, creativity, and the ability to navigate ambiguity - precisely where AI struggles most. The future belongs to those who master human-AI orchestration, combining clear architectural vision with creative judgment. We need to be amplified by AI yet firmly anchored in human insight and understanding.
 
-Bottom line: AI won't replace developers who understand their craft, but those who can do this dance between the technical and human will define the next era. The skill to develop isn't just coding - it's orchestrating AI capabilities while knowing when human wisdom is non-negotiable. 
+Bottom line: AI won't replace developers who understand their craft, but those who can do this dance between the technical and human will define the next era. The skill to develop isn't just coding - it's orchestrating AI capabilities while knowing when human wisdom is non-negotiable.
 
 Learn to conduct the symphony, not just play an instrument. Enjoy the wave.
