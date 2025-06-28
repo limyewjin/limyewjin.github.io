@@ -4,7 +4,7 @@ comments: true
 giscus_comments: true
 title: Software 3.0 - Learn to Conduct, Not Just Code
 date: 2025-06-26 08:00:00
-tags: ai sosftwareengineering
+tags: ai softwareengineering
 description: Reflections on Karpathy's AI manifesto and why the future belongs to human-AI orchestrators
 ---
 
