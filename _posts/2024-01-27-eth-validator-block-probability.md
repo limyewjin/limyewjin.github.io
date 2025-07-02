@@ -16,7 +16,7 @@ As an Ethereum staker, one of the key aspects of participation in the network is
 
 The Ethereum PoS protocol, specifically in the context of block validation, operates with discrete time units called slots. A new block is proposed in each slot by a randomly selected validator. The probability of a specific validator being chosen for any given slot is inversely proportional to the total number of effective ETH balance of each validator. See [Block Proposal (ethereum.org)](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/block-proposal/)
 
-1. **Total Eligible ETH (N):** The total amount of eligible ETH in the network. As of 2025-07-01 10:15, it's approximately 35400292 ETH.
+1. **Total Eligible ETH (N):** The total amount of eligible ETH in the network. As of 2025-07-02 10:15, it's approximately 35444558 ETH.
 2. **Your ETH (V):** The amount of ETH you have staked.
 3. **Time Period (T):** The duration for which you want to calculate the probability, measured in slots. (Note: The Ethereum network typically operates with a slot time of 12 seconds.)
 
@@ -43,32 +43,32 @@ Handy number of slots in various time periods
 
 ## Probabilities for 32 ETH
 
-- **Probability of not proposing a block in one slot:** $$ 1 - \frac{32}{35400292} $$
-- **One Hour (300 slots):** $$ \left( 1 - \frac{32}{35400292} \right)^{300} $$
-- **One Day (7,200 slots):** $$ \left( 1 - \frac{32}{35400292} \right)^{7200} $$
-- **One Week (50,400 slots):** $$ \left( 1 - \frac{32}{35400292} \right)^{50400} $$
-- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{32}{35400292} \right)^{216000} $$
+- **Probability of not proposing a block in one slot:** $$ 1 - \frac{32}{35444558} $$
+- **One Hour (300 slots):** $$ \left( 1 - \frac{32}{35444558} \right)^{300} $$
+- **One Day (7,200 slots):** $$ \left( 1 - \frac{32}{35444558} \right)^{7200} $$
+- **One Week (50,400 slots):** $$ \left( 1 - \frac{32}{35444558} \right)^{50400} $$
+- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{32}{35444558} \right)^{216000} $$
 
 ### Summary
 
 - **Chance of not proposing a block in one hour:** Approximately 99.97%
 - **Chance of not proposing a block in one day:** Approximately 99.35%
 - **Chance of not proposing a block in one week:** Approximately 95.55%
-- **Chance of not proposing a block in one month:** Approximately 82.26%
+- **Chance of not proposing a block in one month:** Approximately 82.28%
 
 ## Probabilities for 3200 ETH
 
-- **Probability of not proposing a block in one slot:** $$ 1 - \frac{3200}{35400292} $$
-- **One Hour (300 slots):** $$ \left( 1 - \frac{3200}{35400292} \right)^{300} $$
-- **One Day (7,200 slots):** $$ \left( 1 - \frac{3200}{35400292} \right)^{7200} $$
-- **One Week (50,400 slots):** $$ \left( 1 - \frac{3200}{35400292} \right)^{50400} $$
-- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{3200}{35400292} \right)^{216000} $$
+- **Probability of not proposing a block in one slot:** $$ 1 - \frac{3200}{35444558} $$
+- **One Hour (300 slots):** $$ \left( 1 - \frac{3200}{35444558} \right)^{300} $$
+- **One Day (7,200 slots):** $$ \left( 1 - \frac{3200}{35444558} \right)^{7200} $$
+- **One Week (50,400 slots):** $$ \left( 1 - \frac{3200}{35444558} \right)^{50400} $$
+- **One Month (approx. 30 days, 216,000 slots):** $$ \left( 1 - \frac{3200}{35444558} \right)^{216000} $$
 
 ### Summary
 
-- **Chance of not proposing a block in one hour:** Approximately 97.32%
-- **Chance of not proposing a block in one day:** Approximately 52.16%
-- **Chance of not proposing a block in one week:** Approximately 1.05%
+- **Chance of not proposing a block in one hour:** Approximately 97.33%
+- **Chance of not proposing a block in one day:** Approximately 52.20%
+- **Chance of not proposing a block in one week:** Approximately 1.06%
 - **Chance of not proposing a block in one month:** Practically 0% (very close to zero)
 
 # Calculating the Probability of Proposing At Least B Blocks
