@@ -25,6 +25,6 @@ This same principle now drives my approach to building new ideas for users. I do
 Success in long-term endeavors – whether a PhD, building a new product, or mastering a new skill – isn't about maintaining constant motivation. It's about building a cycle of small achievements that gradually compound into significant progress! Think about how you can take the small steps to compound into material changes.
 
 For more on this philosophy of incremental progress and how it's really an effective way to execute and have significant impact, check out the roofshot manifesto by Luiz André Barroso (RIP):
-https://fontoura.org/papers/barroso.pdf
+https://web.archive.org/web/20230922060904/https://rework.withgoogle.com/blog/the-roofshot-manifesto/
 
 What small wins are you celebrating today?

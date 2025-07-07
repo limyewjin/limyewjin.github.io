@@ -26,7 +26,7 @@ Remember, your growth funnel is a complex system with many interdependent parts.
 - Ranking, triggering, and signal changes for search is an example of roofshots; so are datacenter innovations like improving electrical efficiencies, etc.
 - Compound growth is the secret sauce: A 1.3X improvement per quarter adds up to a moonshot-level 23.3X improvement in under 3 years.
 - Roofshots are the unsung heroes quietly driving sustainable growth and innovation behind the scenes.
-- See Roofshot Manifesto by Luiz André Barroso https://fontoura.org/papers/barroso.pdf
+- See Roofshot Manifesto by Luiz André Barroso https://web.archive.org/web/20230922060904/https://rework.withgoogle.com/blog/the-roofshot-manifesto/
 
 Don't underestimate the power of small, consistent improvements. Roofshots may not grab headlines like moonshots, but they are the foundation of sustainable, long-term growth.
 
