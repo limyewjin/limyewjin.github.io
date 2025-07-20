@@ -7,6 +7,7 @@ date: 2025-06-28 08:00:00
 tags: mentalhealth rest personal
 description: Don't mistake being busy for being meaningful
 ---
+
 Ever notice how "What are you working on?" is a default small talk opener?
 
 We've created a world where every moment needs to be monetized, optimized, or leveraged for future gain. Even our hobbies are hyperoptimized now.
@@ -24,6 +25,7 @@ The real radical act might be refusing to optimize every experience. Sometimes t
 Your attention is not a resource to be strip-mined. It's how you experience being alive.
 
 Here's how I'm reclaiming mine:
+
 - Notice when I'm being baited by clickbait or outrage - then choose to scroll past (hopefully not this post though? 😂)
 - Learn the names of trees and birds in my neighborhood
 - Strike up conversations with neighbors without an agenda
