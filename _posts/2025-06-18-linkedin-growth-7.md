@@ -31,6 +31,6 @@ These experiments show the power of small copy changes. They're a testament to t
 
 Have you tried copy experiments in your products? Share your experiences and tips in the comments!
 
-[1] Netflix Artwork Personalization: https://netflixtechblog.com/artwork-personalization-c589f074ad76
+[1] Netflix Artwork Personalization
 [2] Highrise Headline Test: https://signalvnoise.com/posts/1525-writing-decisions-headline-tests-on-the-highrise-signup-page
 [3] Movexa Headline Test: https://vwo.com/success-stories/movexa/
