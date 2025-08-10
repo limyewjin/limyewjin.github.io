@@ -91,7 +91,11 @@ We toss "rich" around like it's binary, but lived experience says otherwise.
 
 \*Public-stock slices often include concentrated founder shares \- not a three-fund portfolio.
 
+<!-- link_checker_ignore -->
+
 **Index funds preserve wealth; concentrated equity creates it**. Nick Maggiulli's "[Wealth Ladder](https://www.amazon.com/Wealth-Ladder-Proven-Strategies-Financial/dp/0593854039)" framework puts this in stark perspective. He defines wealth in six levels, each a 10x jump from the last. Level 4 ($1M-$10M) gives you "travel freedom" \- you can vacation wherever you want. Level 5 ($10M-$100M) provides "house freedom" \- your dream home becomes possible without impacting your finances.
+
+<!-- end_link_checker_ignore -->
 
 Here's the uncomfortable truth: even if you hit that Microsoft L70 comp and save religiously for 30 years, you'll likely land squarely in Level 5 but just barely\ - most will end up in Level 4\. The traditional FAANG-and-index-funds path has a ceiling, and that ceiling sits below Level 5\.
 
