@@ -112,14 +112,13 @@ At senior levels, that 10% could be $200K+ annually. Write $25K checks for angel
 
 **The Three Phases:**
 
-1. **Fuel the Rocket** \- Keep W-2 cash flowing; save 40-60%. Think of this as stacking solid rocket boosters.
+1. **Fuel the Rocket** \- Keep W-2 cash flowing; save 30-60%. Think of this as stacking solid rocket boosters.
 
 2. **Light the Booster** \- Direct that 10% into asymmetric bets while salary covers the downside: angel checks, small rentals, nights-and-weekends SaaS.
 
-3. **Stabilize the Orbit** \- When something hits, harvest gains (QSBS, 1031 exchanges), then add index funds for ballast so market swings don't rip your solar panels off.
+3. **Stabilize the Orbit** \- When something hits, harvest gains (QSBS, 1031 exchanges), then add index funds for wealth preservation so market swings don't rip your solar panels off.
 
-If every bet zeros, fine \- I'm still on pace for $13M at 60\.  
- If even one wins, I punch through the income ceiling that salary alone could never breach.
+If every bet zeros, fine \- I'm still on pace for $13M at 60\. If even one wins, I punch through the income ceiling that salary alone could never breach.
 
 ## **Real-World Patterns (Financial Samurai Readers)**
 
