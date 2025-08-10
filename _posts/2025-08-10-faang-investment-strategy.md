@@ -97,7 +97,7 @@ We toss "rich" around like it's binary, but lived experience says otherwise.
 
 <!-- end_link_checker_ignore -->
 
-Here's the uncomfortable truth: even if you hit that Microsoft L70 comp and save religiously for 30 years, you'll likely land squarely in Level 5 but just barely\ - most will end up in Level 4\. The traditional FAANG-and-index-funds path has a ceiling, and that ceiling sits below Level 5\.
+Here's the uncomfortable truth: even if you hit that Microsoft L70 comp and save religiously for 30 years, you'll likely land squarely in Level 5 but just barely - most will end up in Level 4\. The traditional FAANG-and-index-funds path has a ceiling, and that ceiling sits below Level 5\.
 
 To break into Level 5 and beyond requires something different \- concentrated ownership that can compound beyond what any salary, no matter how astronomical, can deliver. The gap between Level 4 and Level 5 isn't bridged by saving another 10% or getting one more promotion. It's bridged by ownership.
 
