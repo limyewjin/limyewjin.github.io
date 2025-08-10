@@ -55,14 +55,11 @@ _(Amazon's IC ladder caps at L10, though some orgs use L11 "Principal DE"; Apple
 
 ## **Why $2.7M/Year Still Isn't Enough**
 
-**1 · The Tax Guillotine**  
- Even in a bull market, the government is your biggest "co-founder." Federal, FICA, and California state taxes shave off ≈50¢ of every dollar before you ever hit Buy. And if California's proposed 14.63% top bracket passes? Sharpen the blade.
+**W2 Tax Drag**: Even in a bull market, the government is your biggest "co-founder." Federal, FICA, and California state taxes shave off ~50¢ of every dollar before you ever hit Buy. And if California's proposed 14.63% top bracket passes? Sharpen the blade.
 
-**2 · The Time-for-Money Trap**  
- Your comp pauses when you take a sabbatical. Your roommate's SaaS revenue doesn't. The higher your salary, the scarier it feels to unplug \- so you rarely do. I watched peers who could easily chubbyFIRE or leanFIRE stay chained to their desks because they couldn't quite hit fatFIRE on index funds alone.
+**Time-for-Money Trap**: Your comp pauses when you take a sabbatical. Your roommate's SaaS revenue or equity in a company doesn't. The higher your salary, the scarier it feels to unplug \- so you rarely do. I watched peers who could easily chubbyFIRE or leanFIRE stay chained to their desks because they couldn't quite hit fatFIRE on index funds alone.
 
-**3 · The Diversification Paradox**  
- Your FAANG colleagues preach "don't concentrate," yet the richest people did exactly that \- then diversified. Think Bezos keeping 90% Amazon until the yacht was paid for.
+**The Diversification Paradox**: Your FAANG colleagues preach "don't concentrate," yet the richest people did exactly that \- then diversified. Think Bezos keeping 90% Amazon until the yacht was paid for.
 
 **Bottom line: A supersized paycheck is defensive wealth. Ownership is offensive wealth. You need both, but only one can win a championship.**
 
@@ -76,7 +73,7 @@ But that's exactly the trap. We optimize for the wrong thing \- maximizing W-2 i
 
 We toss "rich" around like it's binary, but lived experience says otherwise.
 
-**The Comfortably Rich ($1-5M)**
+**The Comfortably Rich ($1-10M)**
 
 - Dual-income professionals, 20+ years in tech
 - 70%+ in index funds
@@ -88,25 +85,18 @@ We toss "rich" around like it's binary, but lived experience says otherwise.
 
 | Net worth | Business equity | Real estate | Public stocks\*       |
 | --------- | --------------- | ----------- | --------------------- |
-| $30M      | 30%             | 30%         | 20% (≈7% index funds) |
+| $30M      | 30%             | 30%         | 20% (~7% index funds) |
 | $300M     | 40%             | 20%         | 15%                   |
 
 \*Public-stock slices often include concentrated founder shares \- not a three-fund portfolio.
 
-**The bigger the pie, the smaller the index-fund slice.**  
- **Index funds preserve wealth; concentrated equity creates it.**
+**Index funds preserve wealth; concentrated equity creates it**. Nick Maggiulli's "[Wealth Ladder](https://www.amazon.com/Wealth-Ladder-Proven-Strategies-Financial/dp/0593854039)" framework puts this in stark perspective. He defines wealth in six levels, each a 10x jump from the last. Level 4 ($1M-$10M) gives you "travel freedom" \- you can vacation wherever you want. Level 5 ($10M-$100M) provides "house freedom" \- your dream home becomes possible without impacting your finances.
 
-## **The Wealth Ladder Reality Check**
-
-Nick Maggiulli's "Wealth Ladder" framework puts this in stark perspective. He defines wealth in six levels, each a 10x jump from the last. Level 4 ($1M-$10M) gives you "travel freedom" \- you can vacation wherever you want. Level 5 ($10M-$100M) provides "house freedom" \- your dream home becomes possible without impacting your finances.
-
-Here's the uncomfortable truth: even if you hit that Microsoft L70 comp and save religiously for 30 years, you'll likely land squarely in Level 4\. That $13M projection? It's impressive, but it's still Level 4\. The traditional FAANG-and-index-funds path has a ceiling, and that ceiling sits below Level 5\.
+Here's the uncomfortable truth: even if you hit that Microsoft L70 comp and save religiously for 30 years, you'll likely land squarely in Level 5 but just barely\ - most will end up in Level 4\. The traditional FAANG-and-index-funds path has a ceiling, and that ceiling sits below Level 5\.
 
 To break into Level 5 and beyond requires something different \- concentrated ownership that can compound beyond what any salary, no matter how astronomical, can deliver. The gap between Level 4 and Level 5 isn't bridged by saving another 10% or getting one more promotion. It's bridged by ownership.
 
-## **My Asymmetric Wealth Playbook (The 90/10 Rule)**
-
-Here's the framework I wish someone had shown me earlier: if you're earning FAANG-level comp, you can easily save your 30% for that "guaranteed" retirement AND still have serious capital left over for asymmetric bets.
+**My Asymmetric Wealth Playbook (The 90/10 Rule)**. Here's the framework I wish someone had shown me earlier: if you're earning FAANG-level comp, you can easily save your 30% for that "guaranteed" retirement AND still have serious capital left over for asymmetric bets.
 
 **The 90/10 Split:**
 
