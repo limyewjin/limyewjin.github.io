@@ -13,7 +13,7 @@ pretty_table: true
 
 Picture this: you're a Microsoft Distinguished Engineer (L70) pulling in $2.7M a year. You've hit the IC summit. You dutifully max every tax shelter, funnel the rest into index funds, and \- just as [Deedy Das' comp slide](https://x.com/deedydas/status/1950741701439750167) predicts \- retire 30 years later with $13M.
 
-{% include figure.liquid loading="eager" path="assets/img/ScreenShot-deedy.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/ScreenShot-deedy.png" class="img-fluid rounded z-depth-1" style="max-height:600px; width:auto;" zoomable=true %}
 
 This is supposed to be the pinnacle of the "known" path to wealth. The safe, guaranteed route that every FAANG engineer aspires to.
 
@@ -42,7 +42,7 @@ Before we dive into numbers, notice the hidden premise both camps share: it's no
 
 _Translation for the ladder-climbers: Deedy's $13M projection assumes you'll scale a summit 99%+ of engineers will never reach \- and even if you do, the view isn't quite as panoramic as you'd hoped. See levels.fyi_
 
-{% include figure.liquid loading="eager" path="assets/img/ScreenShot-levels.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+{% include figure.liquid loading="eager" path="assets/img/ScreenShot-levels.png" class="img-fluid rounded z-depth-1" style="max-height:600px; width:auto;" zoomable=true %}
 
 | Company | Level | Title                              |
 | ------- | ----- | ---------------------------------- |
