@@ -28,7 +28,7 @@ But here's what bothered me: we were all brilliant engineers solving complex pro
 
 ## **Two Views, One Message**
 
-Before we dive into numbers, notice the hidden premise both camps share: it's not how much you earn, it's what you own. One path treats salary as an endgame; the other treats it as rocket fuel. The difference sounds philosophical, but the math is brutal.
+Before we dive into numbers, notice the hidden premise both camps share: it's not how much you earn, it's what you own. One path treats salary as an endgame; the other treats it as rocket fuel. The difference sounds philosophical, but the outcomes can be material.
 
 | Source                                                                                                        | What the math says                         | What it really means                                                       |
 | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | -------------------------------------------------------------------------- |
