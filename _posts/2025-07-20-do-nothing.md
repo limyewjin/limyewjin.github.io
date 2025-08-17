@@ -4,7 +4,8 @@ comments: true
 giscus_comments: true
 title: Doing Nothing is Something
 date: 2025-06-28 08:00:00
-tags: mentalhealth rest personal
+tags: mental-health work-life-balance wellness
+categories: personal-development
 description: Don't mistake being busy for being meaningful
 ---
 

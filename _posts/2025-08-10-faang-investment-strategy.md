@@ -4,7 +4,8 @@ comments: true
 giscus_comments: true
 title: FAANG Engineers Should Rethink Their Investment Strategy
 date: 2025-08-10 08:00:00
-tags: retirement financialplanning personal
+tags: financial-planning investment-strategy career
+categories: finance
 description: Trade some paycheck for ownership
 pretty_table: true
 ---

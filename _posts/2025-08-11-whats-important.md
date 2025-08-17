@@ -4,7 +4,8 @@ comments: true
 giscus_comments: true
 title: What's important
 date: 2025-08-11 08:00:00
-tags: personal linkedin mentalhealth
+tags: work-life-balance mental-health productivity linkedin-repost
+categories: personal-development
 description: Tips to live an aligned life
 ---
 
