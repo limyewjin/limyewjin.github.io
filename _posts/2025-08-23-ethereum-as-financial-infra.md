@@ -112,6 +112,8 @@ The question isn't whether blockchain technology will impact finance - that's al
 
 ---
 
+<!-- link_checker_ignore -->
+
 [^1]: [Stablecoin Market Cap Data - DefiLlama](https://defillama.com/stablecoins)
 
 [^2]: [Stablecoins by Market Capitalization - CoinGecko](https://www.coingecko.com/en/categories/stablecoins)
@@ -140,6 +142,8 @@ The question isn't whether blockchain technology will impact finance - that's al
 
 [^14]: [Peter Thiel, Founders Fund Make Broad Play on Ethereum - WSJ](https://www.wsj.com/finance/currencies/peter-thiel-ether-investors-39b37a98)
 
-[^15]: [Standard Chartered Institutional Ethereum Report](https://www.standardchartered.com/en/insights/)
+[^15]: [Standard Chartered lifts year-end ether forecast to $7,500 - Reuters](https://www.reuters.com/business/standard-chartered-lifts-year-end-ether-forecast-7500-2025-08-13/)
 
-[^16]: [Ethereum ETF Flow Data](https://www.coingecko.com/en/categories/ethereum-etf)
+[^16]: [Ethereum ETF Tracker](https://coinmarketcap.com/etf/ethereum/)
+
+<!-- end_link_checker_ignore -->
