@@ -39,7 +39,7 @@ But it goes deeper than individual searches. MCP tools can maintain ongoing rese
 
 The context-aware aspect is crucial - these aren't just isolated web searches. Claude Code can correlate new research with your existing posts, identify gaps in your coverage, and suggest natural follow-up topics. Your blog evolves from a collection of individual posts into a coherent knowledge graph.
 
-Beyond [Perplexity MCP](https://github.com/jsonallen/perplexity-mcp), other MCP tools are worth exploring: [Obsidian MCP](https://github.com/MarkusPfundstein/mcp-obsidian) can index your research notes into SQLite for instant retrieval, Memory Bank MCP maintains context across sessions (imagine Claude remembering your blog series themes weeks later), and the [official Notion MCP](https://github.com/makenotion/notion-mcp-server) handles content planning and todo management with full workspace access.
+Beyond [Perplexity MCP](https://github.com/jsonallen/perplexity-mcp), other MCP tools are worth exploring - see below for the list I have tested/used.
 
 ## My Actual Workflow
 
