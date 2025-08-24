@@ -31,7 +31,7 @@ The real power emerges when you move past basic "write me a blog post" prompts t
 
 ## MCP Integration
 
-This is where things get genuinely transformative. The [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol) ecosystem, particularly tools like Perplexity MCP, turns Claude Code from a writing assistant into a research powerhouse.
+This is where things get genuinely transformative. The [Model Context Protocol (MCP)](https://www.anthropic.com/news/model-context-protocol) ecosystem, particularly tools like [Perplexity MCP](https://github.com/jsonallen/perplexity-mcp), turns Claude Code from a writing assistant into a research powerhouse.
 
 With Perplexity MCP installed, I can perform real-time web searches without leaving Claude Code (To be fair, Claude Code can do websearches by itself now). Working on a post about Ethereum staking? I can search for the latest validator metrics, recent protocol updates, or community discussions - all while maintaining the context of my draft. The research becomes integrated rather than scattered across browser tabs and note-taking apps.
 
