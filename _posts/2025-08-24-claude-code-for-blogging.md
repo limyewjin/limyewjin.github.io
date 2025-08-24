@@ -39,7 +39,11 @@ But it goes deeper than individual searches. MCP tools can maintain ongoing rese
 
 The context-aware aspect is crucial - these aren't just isolated web searches. Claude Code can correlate new research with your existing posts, identify gaps in your coverage, and suggest natural follow-up topics. Your blog evolves from a collection of individual posts into a coherent knowledge graph.
 
-Beyond [Perplexity MCP](https://github.com/jsonallen/perplexity-mcp), other MCP tools are worth exploring - see below for the list I have tested/used.
+Beyond [Perplexity MCP](https://github.com/jsonallen/perplexity-mcp), other MCP tools are worth exploring:
+
+- [Obsidian MCP](https://github.com/MarkusPfundstein/mcp-obsidian) monitors your vault and indexes metadata into SQLite - perfect for maintaining a searchable research archive. The File System MCP provides enhanced local file operations beyond basic Claude Code capabilities.
+- [Memory Bank MCP](https://github.com/alioshr/memory-bank-mcp) allows Claude Code to maintain awareness of themes and discussions across multiple sessions. No more re-explaining your blog's focus every time you start writing.
+- The [official Notion MCP](https://developers.notion.com/docs/mcp) offers full workspace access with OAuth, making it ideal for content calendars and editorial planning. GitHub MCP can automate issue creation for blog ideas and manage content workflows.
 
 ## My Actual Workflow
 
@@ -64,11 +68,5 @@ Some tips I learnt along the way:
 - Managing session context is an art. Too little context and Claude loses track of your blog's voice and themes. Too much and responses become slow and unfocused. The sweet spot is maintaining awareness of 5-10 recent posts and your core style guide while using `/compact` to summarize longer research sessions.
 
 What's overhyped? The idea that AI can completely replace your editorial judgment. Claude Code excels at research, drafting, and technical formatting, but the strategic decisions about what to write, how to position arguments, and when to publish still require human insight.
-
-Below are a few more MCP tools I have found useful:
-
-- [Obsidian MCP](https://github.com/MarkusPfundstein/mcp-obsidian) monitors your vault and indexes metadata into SQLite - perfect for maintaining a searchable research archive. The File System MCP provides enhanced local file operations beyond basic Claude Code capabilities.
-- [Memory Bank MCP](https://github.com/alioshr/memory-bank-mcp) allows Claude Code to maintain awareness of themes and discussions across multiple sessions. No more re-explaining your blog's focus every time you start writing.
-- The [official Notion MCP](https://developers.notion.com/docs/mcp) offers full workspace access with OAuth, making it ideal for content calendars and editorial planning. GitHub MCP can automate issue creation for blog ideas and manage content workflows.
 
 May your writing be smooth and impactful.
