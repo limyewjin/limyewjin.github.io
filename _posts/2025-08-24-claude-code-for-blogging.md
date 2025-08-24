@@ -51,7 +51,7 @@ Here's how my typical blog post comes together, step by step:
 
 **Step 3: Multi-Agent Content Creation** - My research agent compiles findings and suggests angles. My draft agent takes these insights and creates the initial structure and content, maintaining my voice and technical level. My editing agent reviews for clarity, flow, and consistency with my existing posts.
 
-**Step 4: Jekyll Integration** - Claude Code handles the technical details - proper front matter formatting, tag suggestions based on content analysis, and even image optimization if needed. It can trigger local builds to catch formatting issues before publication.
+**Step 4: Jekyll Integration** - Claude Code handles the technical details - proper front matter formatting, tag suggestions based on content analysis, and even image optimization if needed. It can run `prettier`, create changelist descriptions, and other geeky commands.
 
 The entire process feels collaborative rather than automated. I'm not just delegating writing to AI - I'm orchestrating a content creation process where AI handles routine tasks while I focus on strategy, voice, and unique insights.
 
