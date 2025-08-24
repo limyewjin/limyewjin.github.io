@@ -9,7 +9,7 @@ tags: ai blogging productivity
 categories: tutorial
 ---
 
-There's something recursive about using Claude Code to research and write a blog post about using Claude Code for blogging. As I sit here, watching Claude pull insights from [Anthropic's best practices guide](https://www.anthropic.com/engineering/claude-code-best-practices), search for advanced MCP integrations, and help structure the first draft. This is a pretty fundamental shift in content creation.
+There's something recursive about using Claude Code to research and write a blog post about using Claude Code for blogging. As I sit here, watching Claude pull insights from [Anthropic's best practices guide](https://www.anthropic.com/engineering/claude-code-best-practices), search for advanced MCP integrations, and help structure the first draft. This is a pretty great QOL improvement in my content creation workflow.
 
 This isn't a "AI will change everything" post. It's a distillation of what works for me right now.
 
