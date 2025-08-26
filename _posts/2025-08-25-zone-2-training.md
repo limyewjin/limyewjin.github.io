@@ -51,7 +51,7 @@ I've had to completely recalibrate my ego about what "going for a run" means. So
 
 ### **You NEED a Real Heart Rate Monitor**
 
-Let me save you some frustration: [your fitness watch is lying to you about your heart rate](https://www.dcrainmaker.com/2021/01/optical-heart-rate-accuracy-2021.html), especially during zone 2 training where precision matters.
+Let me save you some frustration: [your fitness watch is lying to you about your heart rate](https://pmc.ncbi.nlm.nih.gov/articles/PMC9952291/), especially during zone 2 training where precision matters.
 
 I use a [Polar Verity Sense armband](https://www.polar.com/us-en/products/accessories/polar-verity-sense) (because I hate chest straps with the fire of a thousand suns), and the difference is shocking. Wrist-based monitors lag, they get confused by arm movement, and they'll have you thinking you're in zone 2 when you're actually cruising in zone 3\.
 
