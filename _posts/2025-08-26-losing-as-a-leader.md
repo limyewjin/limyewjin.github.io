@@ -4,7 +4,7 @@ comments: true
 giscus_comments: true
 title: Why How You Lose As A Leader Matters As Much As How You Win
 date: 2025-08-26 08:00:00
-description: The surprising side effects of zone 2 training nobody warns you about - from sleep issues to ego checks
+description: Why your spectacular failures are worth as much, if not more, than your polished wins
 tags: leadership, organizational-culture, failure, psychological-safety, career, linkedin
 categories: leadership
 ---
