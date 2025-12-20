@@ -130,7 +130,7 @@ The question isn't whether blockchain technology will impact finance - that's al
 
 [^8]: [Franklin Templeton Expands Tokenized Money Market Fund](https://www.theblock.co/post/326575/franklin-templeton-expands-tokenized-money-market-fund-to-ethereum)
 
-[^9]: Solana RWA Growth Outpaces Ethereum - https://thedefiant.io/news/research-and-opinion/solana-rwa-growth-outpaces-ethereum-in-2025
+[^9]: Solana RWA Growth Outpaces Ethereum - The Defiant
 
 [^10]: [RWA Analytics - RWA.xyz](https://app.rwa.xyz/)
 
